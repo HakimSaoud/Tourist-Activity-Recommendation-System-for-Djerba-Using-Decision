@@ -1,0 +1,2001 @@
+Tourist_Type,Interest_Category,Budget,Season,Duration_of_Stay,Accessibility,Recommended_Activity
+Couple,Relaxation,Medium,Fall,Short,Walking,Luxury Spa Retreat
+Group,Adventure,High,Fall,Short,Public Transport,Camel Ride on the Beach
+Family,Adventure,High,Spring,Short,Walking,Artisan Market Shopping
+Group,Relaxation,Low,Spring,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Fall,Short,Public Transport,Artisan Market Shopping
+Family,Relaxation,High,Summer,Short,Walking,Houmt Souk Exploration
+Solo,Relaxation,High,Summer,Short,Walking,Houmt Souk Exploration
+Group,Culture,High,Fall,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Fall,Long,Car Rental,Artisan Market Shopping
+Solo,Adventure,Low,Winter,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,High,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Group,Culture,High,Spring,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Family,Culture,Low,Winter,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Medium,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Group,Adventure,Low,Winter,Long,Walking,Explore Borj El Kebir Fort
+Couple,Culture,High,Fall,Medium,Public Transport,Visit Guellala Museum
+Family,Adventure,High,Summer,Medium,Walking,Houmt Souk Exploration
+Solo,Adventure,Low,Fall,Short,Public Transport,Artisan Market Shopping
+Solo,Culture,Low,Fall,Medium,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Relaxation,Low,Fall,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Winter,Medium,Car Rental,Excursion to Djerba Explore Park
+Family,Culture,Medium,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Spring,Short,Public Transport,Kitesurfing
+Family,Culture,Low,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,High,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Relaxation,Low,Spring,Short,Walking,Kitesurfing
+Couple,Culture,Medium,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,Low,Fall,Long,Car Rental,Luxury Spa Retreat
+Group,Relaxation,Medium,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,Low,Fall,Long,Car Rental,Artisan Market Shopping
+Couple,Relaxation,Medium,Spring,Long,Public Transport,Artisan Market Shopping
+Family,Relaxation,Low,Spring,Medium,Public Transport,Visit Guellala Museum
+Group,Culture,Low,Winter,Long,Public Transport,Kitesurfing
+Couple,Adventure,High,Fall,Short,Walking,Houmt Souk Exploration
+Solo,Adventure,High,Fall,Medium,Car Rental,Kitesurfing
+Family,Relaxation,Low,Fall,Long,Public Transport,Camel Ride on the Beach
+Couple,Culture,Medium,Spring,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Culture,Medium,Winter,Long,Walking,Visit Guellala Museum
+Couple,Adventure,Medium,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,Low,Spring,Short,Walking,Visit Guellala Museum
+Group,Relaxation,Medium,Spring,Short,Public Transport,Luxury Spa Retreat
+Solo,Adventure,Medium,Summer,Long,Car Rental,Camel Ride on the Beach
+Group,Adventure,High,Winter,Short,Walking,Excursion to Djerba Explore Park
+Couple,Culture,High,Fall,Short,Walking,Excursion to Djerba Explore Park
+Family,Culture,Low,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,High,Summer,Long,Public Transport,Visit Guellala Museum
+Couple,Culture,Low,Spring,Long,Public Transport,Visit Guellala Museum
+Group,Adventure,Low,Fall,Medium,Walking,Visit Guellala Museum
+Solo,Culture,High,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Winter,Long,Car Rental,Luxury Spa Retreat
+Family,Relaxation,High,Summer,Long,Public Transport,Artisan Market Shopping
+Group,Culture,Medium,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Low,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,Medium,Spring,Long,Car Rental,Visit Guellala Museum
+Family,Relaxation,Low,Winter,Short,Public Transport,Relax at Sidi Mahres Beach
+Group,Adventure,High,Spring,Long,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,High,Summer,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,Medium,Winter,Short,Public Transport,Kitesurfing
+Couple,Relaxation,High,Summer,Medium,Walking,Visit Guellala Museum
+Group,Relaxation,Medium,Winter,Long,Walking,Kitesurfing
+Family,Relaxation,Low,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Summer,Medium,Car Rental,Relax at Sidi Mahres Beach
+Couple,Adventure,High,Spring,Short,Public Transport,Houmt Souk Exploration
+Couple,Culture,Low,Summer,Short,Public Transport,Camel Ride on the Beach
+Group,Culture,Low,Spring,Medium,Walking,Visit Guellala Museum
+Group,Adventure,Medium,Winter,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Relaxation,High,Winter,Short,Car Rental,Visit Guellala Museum
+Couple,Culture,High,Fall,Medium,Public Transport,Kitesurfing
+Solo,Culture,Low,Summer,Medium,Public Transport,Kitesurfing
+Group,Adventure,High,Fall,Long,Walking,Houmt Souk Exploration
+Couple,Culture,Low,Summer,Long,Walking,Kitesurfing
+Group,Relaxation,Medium,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Winter,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Relaxation,Low,Summer,Medium,Car Rental,Luxury Spa Retreat
+Solo,Culture,High,Winter,Short,Walking,Artisan Market Shopping
+Solo,Culture,Medium,Spring,Long,Public Transport,Kitesurfing
+Family,Adventure,Low,Fall,Medium,Public Transport,Kitesurfing
+Solo,Relaxation,Low,Winter,Short,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Low,Fall,Medium,Walking,Visit Guellala Museum
+Family,Adventure,Low,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Adventure,Medium,Summer,Short,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Winter,Long,Car Rental,Kitesurfing
+Couple,Culture,Low,Summer,Long,Walking,Visit Guellala Museum
+Solo,Culture,High,Summer,Long,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Low,Fall,Long,Public Transport,Houmt Souk Exploration
+Couple,Relaxation,Medium,Summer,Medium,Car Rental,Artisan Market Shopping
+Family,Culture,Low,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Spring,Medium,Public Transport,Visit Guellala Museum
+Group,Adventure,High,Fall,Long,Walking,Houmt Souk Exploration
+Group,Culture,Low,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Group,Adventure,Medium,Spring,Short,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,High,Summer,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Adventure,Medium,Fall,Long,Walking,Houmt Souk Exploration
+Group,Culture,High,Fall,Medium,Walking,Kitesurfing
+Couple,Culture,Medium,Winter,Long,Walking,Camel Ride on the Beach
+Couple,Adventure,Low,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Solo,Relaxation,High,Spring,Short,Car Rental,Visit Guellala Museum
+Solo,Culture,Medium,Fall,Short,Walking,Houmt Souk Exploration
+Solo,Culture,Medium,Spring,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Spring,Short,Walking,Excursion to Djerba Explore Park
+Couple,Culture,High,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Relaxation,Low,Spring,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Winter,Long,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Medium,Spring,Short,Car Rental,Houmt Souk Exploration
+Solo,Adventure,High,Fall,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Summer,Medium,Car Rental,Visit Guellala Museum
+Couple,Adventure,High,Spring,Short,Public Transport,Artisan Market Shopping
+Group,Adventure,High,Summer,Short,Car Rental,Houmt Souk Exploration
+Family,Culture,Medium,Summer,Long,Walking,Houmt Souk Exploration
+Solo,Adventure,Medium,Spring,Medium,Walking,Kitesurfing
+Family,Relaxation,Low,Fall,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,High,Spring,Short,Walking,Visit Guellala Museum
+Couple,Relaxation,Medium,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Spring,Medium,Walking,Artisan Market Shopping
+Solo,Relaxation,Medium,Fall,Medium,Public Transport,Camel Ride on the Beach
+Couple,Relaxation,Medium,Spring,Short,Walking,Artisan Market Shopping
+Couple,Culture,Low,Fall,Medium,Car Rental,Kitesurfing
+Couple,Culture,High,Spring,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Low,Spring,Long,Car Rental,Camel Ride on the Beach
+Group,Relaxation,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Medium,Spring,Medium,Walking,Luxury Spa Retreat
+Couple,Relaxation,High,Winter,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,High,Winter,Long,Public Transport,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Fall,Long,Car Rental,Artisan Market Shopping
+Family,Relaxation,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Solo,Culture,High,Fall,Medium,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Winter,Medium,Walking,Artisan Market Shopping
+Family,Relaxation,High,Fall,Medium,Public Transport,Visit the Djerba Heritage Museum
+Couple,Relaxation,Low,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Relaxation,Low,Summer,Medium,Car Rental,Visit Guellala Museum
+Family,Culture,Low,Summer,Long,Car Rental,Camel Ride on the Beach
+Group,Relaxation,Medium,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Medium,Winter,Short,Walking,Kitesurfing
+Family,Relaxation,Medium,Fall,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Fall,Medium,Car Rental,Houmt Souk Exploration
+Family,Culture,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Family,Relaxation,Medium,Winter,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Culture,Low,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Spring,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Medium,Fall,Short,Car Rental,Visit Guellala Museum
+Family,Relaxation,Medium,Spring,Medium,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Low,Spring,Medium,Car Rental,Camel Ride on the Beach
+Solo,Adventure,Medium,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Winter,Long,Walking,Explore Borj El Kebir Fort
+Couple,Culture,High,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Solo,Adventure,High,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,Medium,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,Medium,Summer,Long,Car Rental,Camel Ride on the Beach
+Solo,Relaxation,Medium,Winter,Long,Public Transport,Houmt Souk Exploration
+Group,Culture,High,Summer,Short,Walking,Artisan Market Shopping
+Group,Relaxation,High,Summer,Medium,Public Transport,Visit Guellala Museum
+Solo,Adventure,Medium,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,Medium,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Spring,Long,Public Transport,Kitesurfing
+Solo,Relaxation,Low,Spring,Long,Public Transport,Artisan Market Shopping
+Group,Relaxation,Medium,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Group,Culture,High,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,High,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Solo,Relaxation,Low,Spring,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Winter,Medium,Public Transport,Artisan Market Shopping
+Family,Adventure,High,Fall,Long,Walking,Visit Guellala Museum
+Group,Relaxation,Medium,Spring,Short,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,Low,Winter,Short,Walking,Kitesurfing
+Couple,Adventure,Medium,Spring,Medium,Walking,Camel Ride on the Beach
+Group,Adventure,Low,Fall,Long,Walking,Artisan Market Shopping
+Solo,Culture,High,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Couple,Relaxation,High,Winter,Medium,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,High,Fall,Medium,Public Transport,Houmt Souk Exploration
+Family,Relaxation,Medium,Summer,Short,Walking,Houmt Souk Exploration
+Solo,Relaxation,High,Spring,Short,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,High,Summer,Long,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Winter,Long,Walking,Explore Borj El Kebir Fort
+Family,Relaxation,Medium,Spring,Long,Walking,Visit Guellala Museum
+Family,Culture,Medium,Fall,Medium,Public Transport,Artisan Market Shopping
+Couple,Culture,Low,Spring,Long,Walking,Camel Ride on the Beach
+Family,Adventure,Low,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Couple,Culture,High,Fall,Short,Walking,Kitesurfing
+Group,Adventure,Low,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Solo,Culture,Low,Summer,Medium,Car Rental,Camel Ride on the Beach
+Group,Culture,Low,Summer,Medium,Walking,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Summer,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Spring,Long,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Low,Summer,Long,Car Rental,Kitesurfing
+Couple,Adventure,Medium,Fall,Long,Public Transport,Visit Guellala Museum
+Family,Adventure,High,Spring,Long,Car Rental,Camel Ride on the Beach
+Group,Culture,Low,Summer,Medium,Car Rental,Explore Borj El Kebir Fort
+Group,Relaxation,Medium,Summer,Medium,Walking,Visit Guellala Museum
+Group,Relaxation,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Group,Culture,High,Fall,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Group,Culture,Low,Summer,Long,Public Transport,Artisan Market Shopping
+Solo,Adventure,Medium,Winter,Short,Walking,Luxury Spa Retreat
+Solo,Relaxation,Low,Winter,Long,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Medium,Summer,Medium,Car Rental,Houmt Souk Exploration
+Solo,Adventure,Low,Spring,Medium,Car Rental,Artisan Market Shopping
+Group,Adventure,Low,Fall,Long,Public Transport,Artisan Market Shopping
+Couple,Culture,Medium,Fall,Medium,Walking,Kitesurfing
+Family,Adventure,Medium,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Winter,Long,Public Transport,Artisan Market Shopping
+Solo,Relaxation,High,Winter,Long,Car Rental,Houmt Souk Exploration
+Family,Adventure,High,Summer,Short,Car Rental,Artisan Market Shopping
+Group,Adventure,Low,Summer,Short,Car Rental,Visit Guellala Museum
+Solo,Relaxation,Medium,Summer,Short,Walking,Kitesurfing
+Couple,Culture,Medium,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Family,Culture,Low,Fall,Short,Walking,Houmt Souk Exploration
+Couple,Relaxation,High,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Culture,Low,Fall,Long,Car Rental,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Fall,Long,Walking,Excursion to Djerba Explore Park
+Group,Culture,Low,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Adventure,Medium,Summer,Medium,Public Transport,Camel Ride on the Beach
+Family,Adventure,Low,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Medium,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Group,Culture,High,Winter,Short,Public Transport,Luxury Spa Retreat
+Group,Culture,High,Summer,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Fall,Medium,Walking,Luxury Spa Retreat
+Group,Relaxation,Medium,Fall,Long,Public Transport,Houmt Souk Exploration
+Family,Culture,Medium,Spring,Long,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Spring,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Relaxation,Medium,Fall,Medium,Public Transport,Kitesurfing
+Group,Adventure,Low,Fall,Medium,Public Transport,Visit Guellala Museum
+Couple,Relaxation,High,Summer,Short,Public Transport,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Fall,Long,Walking,Luxury Spa Retreat
+Group,Relaxation,High,Summer,Medium,Walking,Artisan Market Shopping
+Group,Culture,Low,Spring,Short,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,High,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Winter,Medium,Walking,Luxury Spa Retreat
+Couple,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Group,Relaxation,Low,Fall,Long,Walking,Visit Guellala Museum
+Group,Culture,High,Summer,Short,Public Transport,Artisan Market Shopping
+Solo,Adventure,High,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Spring,Medium,Car Rental,Artisan Market Shopping
+Group,Culture,High,Spring,Medium,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Low,Spring,Medium,Public Transport,Kitesurfing
+Group,Culture,High,Fall,Medium,Walking,Houmt Souk Exploration
+Solo,Adventure,High,Fall,Medium,Public Transport,Houmt Souk Exploration
+Group,Culture,Medium,Fall,Long,Walking,Explore Borj El Kebir Fort
+Family,Culture,Low,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Winter,Short,Walking,Visit Guellala Museum
+Couple,Adventure,Medium,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Solo,Adventure,High,Fall,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Culture,Medium,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,High,Summer,Short,Public Transport,Kitesurfing
+Family,Culture,Medium,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Group,Culture,Medium,Fall,Long,Walking,Artisan Market Shopping
+Solo,Adventure,Low,Summer,Medium,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Medium,Winter,Long,Walking,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Medium,Fall,Short,Walking,Artisan Market Shopping
+Couple,Adventure,High,Winter,Medium,Walking,Luxury Spa Retreat
+Family,Relaxation,High,Winter,Short,Walking,Luxury Spa Retreat
+Solo,Adventure,Low,Spring,Medium,Walking,Luxury Spa Retreat
+Group,Relaxation,High,Fall,Long,Car Rental,Luxury Spa Retreat
+Solo,Culture,Medium,Winter,Medium,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,Low,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Group,Culture,Medium,Spring,Long,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Short,Car Rental,Kitesurfing
+Family,Adventure,Medium,Summer,Long,Car Rental,Visit Guellala Museum
+Group,Culture,Medium,Summer,Long,Car Rental,Luxury Spa Retreat
+Family,Adventure,Medium,Winter,Short,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Group,Adventure,High,Spring,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Winter,Short,Public Transport,Visit Guellala Museum
+Group,Relaxation,Medium,Spring,Medium,Walking,Visit Guellala Museum
+Family,Culture,Medium,Fall,Long,Walking,Artisan Market Shopping
+Group,Adventure,Medium,Fall,Medium,Car Rental,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Summer,Medium,Car Rental,Camel Ride on the Beach
+Solo,Culture,Medium,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Fall,Short,Car Rental,Houmt Souk Exploration
+Family,Culture,Medium,Summer,Short,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Medium,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Relaxation,Medium,Winter,Medium,Public Transport,Luxury Spa Retreat
+Group,Culture,Low,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Low,Winter,Medium,Walking,Artisan Market Shopping
+Group,Adventure,High,Fall,Short,Walking,Luxury Spa Retreat
+Family,Adventure,High,Summer,Long,Walking,Artisan Market Shopping
+Group,Culture,Low,Summer,Long,Walking,Artisan Market Shopping
+Couple,Adventure,Low,Spring,Long,Public Transport,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Relaxation,Medium,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Spring,Long,Walking,Excursion to Djerba Explore Park
+Group,Adventure,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Couple,Culture,High,Winter,Long,Public Transport,Relax at Sidi Mahres Beach
+Group,Adventure,Medium,Fall,Long,Car Rental,Kitesurfing
+Group,Culture,Medium,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Family,Relaxation,Medium,Winter,Short,Public Transport,Artisan Market Shopping
+Group,Relaxation,Low,Winter,Medium,Walking,Camel Ride on the Beach
+Couple,Adventure,High,Fall,Long,Car Rental,Houmt Souk Exploration
+Group,Culture,Low,Winter,Short,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Fall,Long,Public Transport,Artisan Market Shopping
+Couple,Relaxation,High,Summer,Short,Car Rental,Visit Guellala Museum
+Couple,Relaxation,High,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Winter,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Low,Fall,Short,Walking,Explore Borj El Kebir Fort
+Group,Adventure,High,Winter,Medium,Walking,Luxury Spa Retreat
+Group,Relaxation,Medium,Summer,Medium,Car Rental,Artisan Market Shopping
+Couple,Adventure,Medium,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,Medium,Winter,Medium,Walking,Visit Guellala Museum
+Family,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Family,Relaxation,Low,Fall,Short,Car Rental,Kitesurfing
+Group,Relaxation,Medium,Winter,Short,Public Transport,Camel Ride on the Beach
+Couple,Adventure,High,Fall,Short,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Family,Adventure,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Solo,Adventure,High,Summer,Medium,Public Transport,Houmt Souk Exploration
+Family,Relaxation,Low,Winter,Long,Public Transport,Kitesurfing
+Family,Culture,Medium,Spring,Short,Walking,Explore Borj El Kebir Fort
+Family,Culture,Low,Winter,Medium,Car Rental,Visit Guellala Museum
+Family,Adventure,Medium,Winter,Long,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Low,Summer,Short,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,Low,Fall,Medium,Public Transport,Kitesurfing
+Group,Relaxation,Low,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Spring,Medium,Car Rental,Houmt Souk Exploration
+Family,Relaxation,High,Winter,Short,Public Transport,Visit Guellala Museum
+Group,Relaxation,Medium,Fall,Short,Walking,Relax at Sidi Mahres Beach
+Family,Adventure,Medium,Summer,Medium,Public Transport,Camel Ride on the Beach
+Family,Adventure,High,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Relaxation,Low,Summer,Short,Car Rental,Camel Ride on the Beach
+Solo,Culture,Low,Spring,Long,Public Transport,Kitesurfing
+Group,Culture,Low,Fall,Medium,Walking,Luxury Spa Retreat
+Group,Relaxation,Medium,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Summer,Short,Car Rental,Kitesurfing
+Couple,Adventure,High,Winter,Long,Car Rental,Artisan Market Shopping
+Family,Culture,High,Fall,Short,Walking,Artisan Market Shopping
+Couple,Relaxation,Low,Fall,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Winter,Medium,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Spring,Long,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Fall,Short,Public Transport,Luxury Spa Retreat
+Family,Relaxation,Low,Summer,Short,Public Transport,Kitesurfing
+Family,Culture,High,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Family,Relaxation,High,Fall,Medium,Public Transport,Luxury Spa Retreat
+Group,Adventure,High,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,Medium,Winter,Short,Public Transport,Houmt Souk Exploration
+Group,Culture,Medium,Spring,Long,Car Rental,Camel Ride on the Beach
+Group,Relaxation,Medium,Winter,Short,Public Transport,Houmt Souk Exploration
+Group,Culture,Medium,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Medium,Winter,Long,Car Rental,Visit the Djerba Heritage Museum
+Couple,Relaxation,High,Spring,Medium,Public Transport,Explore Borj El Kebir Fort
+Couple,Adventure,Medium,Summer,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Winter,Short,Car Rental,Camel Ride on the Beach
+Family,Relaxation,Low,Winter,Medium,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Winter,Short,Public Transport,Artisan Market Shopping
+Family,Culture,Low,Fall,Medium,Car Rental,Visit Guellala Museum
+Couple,Culture,Medium,Winter,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,High,Fall,Short,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Winter,Short,Public Transport,Houmt Souk Exploration
+Family,Culture,Low,Fall,Short,Car Rental,Kitesurfing
+Group,Relaxation,Low,Winter,Short,Public Transport,Visit Guellala Museum
+Group,Adventure,Low,Spring,Short,Public Transport,Houmt Souk Exploration
+Family,Culture,Medium,Winter,Medium,Car Rental,Visit Guellala Museum
+Couple,Adventure,Medium,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Spring,Medium,Public Transport,Artisan Market Shopping
+Family,Relaxation,Low,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,High,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Medium,Summer,Long,Car Rental,Luxury Spa Retreat
+Solo,Culture,Low,Winter,Long,Walking,Artisan Market Shopping
+Couple,Adventure,High,Spring,Long,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,High,Winter,Medium,Walking,Kitesurfing
+Family,Relaxation,Medium,Fall,Medium,Walking,Artisan Market Shopping
+Family,Adventure,High,Winter,Medium,Public Transport,Relax at Sidi Mahres Beach
+Group,Relaxation,Medium,Summer,Medium,Public Transport,Luxury Spa Retreat
+Group,Culture,Medium,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Fall,Medium,Public Transport,Luxury Spa Retreat
+Family,Culture,Medium,Spring,Short,Car Rental,Houmt Souk Exploration
+Family,Relaxation,Low,Summer,Long,Car Rental,Luxury Spa Retreat
+Couple,Culture,Medium,Summer,Medium,Car Rental,Explore Borj El Kebir Fort
+Solo,Culture,Low,Spring,Medium,Public Transport,Visit Guellala Museum
+Couple,Relaxation,Low,Winter,Short,Car Rental,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Fall,Long,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Low,Summer,Short,Public Transport,Houmt Souk Exploration
+Family,Adventure,Low,Winter,Medium,Walking,Kitesurfing
+Group,Relaxation,High,Fall,Short,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Fall,Long,Walking,Houmt Souk Exploration
+Group,Adventure,Low,Winter,Medium,Public Transport,Kitesurfing
+Family,Relaxation,Low,Spring,Long,Walking,Houmt Souk Exploration
+Solo,Adventure,Medium,Summer,Long,Car Rental,Explore Borj El Kebir Fort
+Group,Culture,Low,Spring,Long,Car Rental,Kitesurfing
+Family,Culture,Medium,Summer,Short,Walking,Explore Borj El Kebir Fort
+Family,Relaxation,Medium,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Spring,Long,Walking,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Winter,Long,Public Transport,Camel Ride on the Beach
+Group,Relaxation,High,Fall,Short,Public Transport,Houmt Souk Exploration
+Group,Adventure,Low,Fall,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Low,Summer,Short,Walking,Kitesurfing
+Solo,Adventure,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Couple,Adventure,High,Spring,Long,Car Rental,Artisan Market Shopping
+Couple,Adventure,Low,Spring,Long,Car Rental,Relax at Sidi Mahres Beach
+Solo,Relaxation,Low,Summer,Medium,Car Rental,Kitesurfing
+Solo,Culture,Low,Summer,Short,Walking,Artisan Market Shopping
+Family,Culture,High,Winter,Long,Car Rental,Artisan Market Shopping
+Solo,Relaxation,Medium,Winter,Short,Car Rental,Luxury Spa Retreat
+Couple,Adventure,High,Spring,Short,Public Transport,Luxury Spa Retreat
+Group,Culture,Medium,Fall,Medium,Walking,Visit Guellala Museum
+Family,Relaxation,Low,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Family,Adventure,High,Spring,Long,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Medium,Spring,Long,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Fall,Medium,Car Rental,Explore Borj El Kebir Fort
+Couple,Culture,High,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,Medium,Summer,Long,Car Rental,Kitesurfing
+Group,Relaxation,Low,Winter,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Spring,Short,Car Rental,Artisan Market Shopping
+Family,Relaxation,Medium,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Fall,Short,Walking,Kitesurfing
+Solo,Relaxation,Medium,Spring,Short,Public Transport,Camel Ride on the Beach
+Couple,Culture,High,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Couple,Culture,Low,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Summer,Long,Public Transport,Kitesurfing
+Group,Culture,High,Summer,Long,Walking,Kitesurfing
+Solo,Culture,Low,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Group,Adventure,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Solo,Culture,High,Fall,Long,Walking,Camel Ride on the Beach
+Family,Adventure,High,Fall,Medium,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Summer,Medium,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,High,Summer,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Medium,Summer,Medium,Walking,Artisan Market Shopping
+Group,Relaxation,High,Winter,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Relaxation,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Solo,Adventure,High,Spring,Medium,Public Transport,Kitesurfing
+Family,Culture,Medium,Winter,Short,Public Transport,Camel Ride on the Beach
+Family,Relaxation,High,Winter,Long,Walking,Kitesurfing
+Solo,Adventure,Medium,Spring,Long,Public Transport,Visit Guellala Museum
+Solo,Culture,High,Spring,Medium,Walking,Camel Ride on the Beach
+Solo,Relaxation,High,Winter,Long,Public Transport,Luxury Spa Retreat
+Group,Adventure,Medium,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Fall,Medium,Walking,Luxury Spa Retreat
+Couple,Culture,High,Spring,Long,Public Transport,Camel Ride on the Beach
+Family,Adventure,High,Winter,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Culture,High,Summer,Medium,Public Transport,Visit Guellala Museum
+Solo,Adventure,Medium,Fall,Short,Public Transport,Luxury Spa Retreat
+Couple,Culture,Medium,Winter,Long,Car Rental,Relax at Sidi Mahres Beach
+Family,Culture,High,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,High,Fall,Medium,Walking,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Fall,Short,Car Rental,Artisan Market Shopping
+Group,Adventure,High,Spring,Medium,Walking,Camel Ride on the Beach
+Couple,Adventure,High,Summer,Long,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,High,Winter,Short,Car Rental,Houmt Souk Exploration
+Family,Adventure,High,Winter,Medium,Walking,Luxury Spa Retreat
+Solo,Relaxation,Low,Fall,Short,Car Rental,Houmt Souk Exploration
+Family,Relaxation,High,Spring,Short,Car Rental,Visit Guellala Museum
+Group,Culture,High,Fall,Short,Car Rental,Visit the Djerba Heritage Museum
+Family,Adventure,Medium,Fall,Long,Public Transport,Kitesurfing
+Couple,Adventure,High,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Fall,Short,Walking,Luxury Spa Retreat
+Couple,Relaxation,Low,Summer,Medium,Car Rental,Kitesurfing
+Family,Relaxation,Medium,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Summer,Long,Walking,Artisan Market Shopping
+Solo,Relaxation,Medium,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Fall,Medium,Car Rental,Camel Ride on the Beach
+Group,Adventure,High,Fall,Short,Walking,Camel Ride on the Beach
+Group,Culture,Medium,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,High,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Summer,Long,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,High,Spring,Short,Walking,Excursion to Djerba Explore Park
+Group,Culture,Low,Summer,Short,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,High,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Winter,Short,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Fall,Medium,Walking,Camel Ride on the Beach
+Family,Relaxation,High,Spring,Long,Walking,Kitesurfing
+Solo,Adventure,Medium,Winter,Long,Car Rental,Visit Guellala Museum
+Family,Culture,Medium,Summer,Long,Walking,Kitesurfing
+Family,Culture,Low,Summer,Medium,Public Transport,Kitesurfing
+Solo,Culture,Medium,Spring,Short,Walking,Explore Borj El Kebir Fort
+Couple,Culture,High,Winter,Long,Public Transport,Visit Guellala Museum
+Group,Adventure,High,Summer,Medium,Walking,Camel Ride on the Beach
+Solo,Adventure,Medium,Winter,Medium,Walking,Houmt Souk Exploration
+Solo,Adventure,High,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Family,Adventure,Low,Winter,Long,Walking,Explore Borj El Kebir Fort
+Family,Culture,High,Summer,Short,Walking,Houmt Souk Exploration
+Group,Culture,High,Summer,Medium,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Winter,Long,Car Rental,Kitesurfing
+Solo,Relaxation,Low,Fall,Medium,Car Rental,Luxury Spa Retreat
+Group,Relaxation,Medium,Winter,Long,Walking,Excursion to Djerba Explore Park
+Solo,Adventure,High,Spring,Short,Walking,Luxury Spa Retreat
+Family,Culture,High,Winter,Long,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Fall,Short,Public Transport,Camel Ride on the Beach
+Family,Adventure,Low,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Group,Relaxation,High,Winter,Medium,Public Transport,Houmt Souk Exploration
+Couple,Relaxation,Low,Summer,Medium,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Adventure,Medium,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Couple,Culture,Medium,Fall,Short,Car Rental,Houmt Souk Exploration
+Family,Relaxation,Low,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Low,Spring,Medium,Public Transport,Luxury Spa Retreat
+Family,Relaxation,Low,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Group,Culture,High,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Medium,Spring,Long,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,Medium,Spring,Long,Car Rental,Kitesurfing
+Couple,Culture,Medium,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,High,Summer,Long,Public Transport,Houmt Souk Exploration
+Family,Relaxation,High,Winter,Medium,Walking,Visit Guellala Museum
+Family,Culture,High,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,High,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,Medium,Winter,Long,Walking,Houmt Souk Exploration
+Couple,Culture,Medium,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,High,Summer,Long,Walking,Visit Guellala Museum
+Couple,Relaxation,Low,Fall,Medium,Public Transport,Camel Ride on the Beach
+Solo,Culture,High,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Relaxation,Low,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Winter,Long,Public Transport,Luxury Spa Retreat
+Couple,Adventure,High,Winter,Long,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,High,Spring,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Low,Summer,Medium,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Low,Summer,Long,Car Rental,Artisan Market Shopping
+Family,Relaxation,High,Summer,Short,Walking,Houmt Souk Exploration
+Family,Culture,High,Summer,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Group,Culture,Low,Spring,Short,Public Transport,Houmt Souk Exploration
+Group,Culture,Medium,Summer,Short,Public Transport,Explore Borj El Kebir Fort
+Family,Adventure,Medium,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Spring,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Culture,High,Winter,Medium,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Spring,Short,Car Rental,Excursion to Djerba Explore Park
+Family,Culture,Low,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Solo,Adventure,High,Winter,Long,Walking,Excursion to Djerba Explore Park
+Solo,Culture,Medium,Spring,Long,Walking,Artisan Market Shopping
+Group,Adventure,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Solo,Culture,Low,Spring,Long,Walking,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Summer,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Summer,Long,Car Rental,Kitesurfing
+Group,Culture,High,Winter,Long,Public Transport,Camel Ride on the Beach
+Couple,Adventure,High,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Fall,Medium,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,Medium,Spring,Medium,Walking,Houmt Souk Exploration
+Group,Adventure,Low,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Winter,Medium,Public Transport,Visit Guellala Museum
+Family,Adventure,Low,Fall,Long,Public Transport,Kitesurfing
+Solo,Culture,Low,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,High,Winter,Medium,Public Transport,Kitesurfing
+Solo,Culture,Medium,Winter,Short,Car Rental,Houmt Souk Exploration
+Solo,Culture,Medium,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,High,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Solo,Culture,High,Fall,Short,Walking,Houmt Souk Exploration
+Family,Adventure,High,Summer,Long,Walking,Houmt Souk Exploration
+Family,Culture,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Family,Culture,Medium,Fall,Short,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,High,Fall,Long,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Medium,Summer,Long,Public Transport,Artisan Market Shopping
+Solo,Culture,High,Winter,Long,Walking,Luxury Spa Retreat
+Family,Relaxation,High,Winter,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Low,Summer,Short,Walking,Visit Guellala Museum
+Couple,Adventure,Medium,Summer,Medium,Public Transport,Houmt Souk Exploration
+Group,Adventure,High,Summer,Short,Walking,Kitesurfing
+Solo,Adventure,Low,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,Low,Fall,Long,Public Transport,Luxury Spa Retreat
+Group,Adventure,Low,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Winter,Short,Walking,Artisan Market Shopping
+Group,Culture,High,Spring,Short,Walking,Kitesurfing
+Group,Adventure,High,Spring,Short,Car Rental,Artisan Market Shopping
+Solo,Adventure,High,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Low,Fall,Long,Public Transport,Kitesurfing
+Solo,Culture,High,Summer,Short,Walking,Houmt Souk Exploration
+Solo,Culture,Low,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Winter,Long,Walking,Kitesurfing
+Group,Culture,Medium,Fall,Medium,Car Rental,Artisan Market Shopping
+Solo,Relaxation,Low,Spring,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Summer,Long,Public Transport,Artisan Market Shopping
+Family,Relaxation,High,Spring,Short,Public Transport,Kitesurfing
+Couple,Relaxation,Medium,Spring,Medium,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Summer,Long,Walking,Houmt Souk Exploration
+Group,Culture,High,Summer,Short,Car Rental,Houmt Souk Exploration
+Group,Adventure,Low,Fall,Medium,Public Transport,Artisan Market Shopping
+Solo,Culture,Medium,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Winter,Short,Walking,Houmt Souk Exploration
+Couple,Adventure,High,Spring,Short,Public Transport,Houmt Souk Exploration
+Family,Relaxation,High,Summer,Long,Car Rental,Visit Guellala Museum
+Family,Relaxation,High,Summer,Short,Public Transport,Houmt Souk Exploration
+Family,Adventure,Low,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Spring,Medium,Walking,Kitesurfing
+Couple,Culture,Medium,Winter,Long,Public Transport,Artisan Market Shopping
+Group,Culture,Medium,Winter,Short,Public Transport,Artisan Market Shopping
+Couple,Adventure,Low,Fall,Medium,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Summer,Long,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Spring,Long,Car Rental,Houmt Souk Exploration
+Group,Relaxation,High,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,Low,Winter,Medium,Car Rental,Artisan Market Shopping
+Solo,Relaxation,High,Summer,Short,Car Rental,Explore Borj El Kebir Fort
+Group,Culture,High,Winter,Medium,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Summer,Medium,Walking,Houmt Souk Exploration
+Group,Relaxation,Low,Spring,Short,Public Transport,Luxury Spa Retreat
+Solo,Culture,Low,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Fall,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Family,Adventure,Medium,Winter,Long,Walking,Kitesurfing
+Solo,Culture,High,Fall,Long,Public Transport,Houmt Souk Exploration
+Family,Adventure,Medium,Spring,Short,Walking,Kitesurfing
+Group,Relaxation,Low,Summer,Medium,Walking,Luxury Spa Retreat
+Solo,Culture,Low,Winter,Medium,Walking,Houmt Souk Exploration
+Couple,Adventure,Low,Winter,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Winter,Long,Car Rental,Luxury Spa Retreat
+Group,Adventure,Low,Summer,Medium,Walking,Luxury Spa Retreat
+Group,Adventure,Low,Summer,Medium,Car Rental,Artisan Market Shopping
+Solo,Culture,High,Winter,Medium,Car Rental,Artisan Market Shopping
+Couple,Culture,Medium,Winter,Short,Car Rental,Visit Guellala Museum
+Family,Relaxation,Low,Summer,Medium,Public Transport,Camel Ride on the Beach
+Family,Adventure,Low,Summer,Short,Walking,Luxury Spa Retreat
+Solo,Relaxation,High,Fall,Long,Walking,Artisan Market Shopping
+Group,Adventure,Low,Summer,Short,Walking,Houmt Souk Exploration
+Group,Relaxation,Low,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Adventure,Medium,Summer,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Winter,Long,Public Transport,Kitesurfing
+Solo,Adventure,High,Winter,Long,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Medium,Summer,Medium,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Winter,Long,Car Rental,Relax at Sidi Mahres Beach
+Solo,Relaxation,Low,Winter,Medium,Walking,Camel Ride on the Beach
+Family,Culture,Low,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Fall,Short,Public Transport,Kitesurfing
+Solo,Relaxation,High,Spring,Short,Walking,Kitesurfing
+Solo,Relaxation,High,Winter,Short,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,High,Fall,Medium,Public Transport,Visit Guellala Museum
+Couple,Relaxation,High,Summer,Short,Public Transport,Visit Guellala Museum
+Couple,Culture,High,Winter,Long,Walking,Artisan Market Shopping
+Solo,Adventure,High,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,High,Fall,Medium,Walking,Luxury Spa Retreat
+Solo,Adventure,Medium,Fall,Medium,Car Rental,Kitesurfing
+Family,Adventure,Medium,Spring,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Winter,Medium,Public Transport,Kitesurfing
+Solo,Adventure,High,Spring,Medium,Car Rental,Camel Ride on the Beach
+Solo,Relaxation,High,Spring,Long,Public Transport,Artisan Market Shopping
+Couple,Adventure,Low,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Summer,Short,Walking,Camel Ride on the Beach
+Solo,Culture,Medium,Fall,Short,Walking,Kitesurfing
+Group,Relaxation,Low,Fall,Long,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,Low,Fall,Medium,Car Rental,Luxury Spa Retreat
+Family,Relaxation,Medium,Winter,Long,Walking,Luxury Spa Retreat
+Solo,Relaxation,Medium,Summer,Short,Car Rental,Explore Borj El Kebir Fort
+Group,Relaxation,High,Spring,Medium,Walking,Visit Guellala Museum
+Group,Relaxation,Low,Summer,Long,Car Rental,Visit Guellala Museum
+Family,Culture,High,Spring,Medium,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Fall,Short,Car Rental,Camel Ride on the Beach
+Family,Relaxation,Medium,Summer,Medium,Car Rental,Luxury Spa Retreat
+Solo,Relaxation,Medium,Winter,Long,Walking,Kitesurfing
+Family,Culture,Medium,Summer,Long,Public Transport,Luxury Spa Retreat
+Group,Adventure,Low,Summer,Long,Walking,Camel Ride on the Beach
+Family,Relaxation,High,Summer,Long,Walking,Artisan Market Shopping
+Couple,Relaxation,High,Summer,Short,Public Transport,Houmt Souk Exploration
+Family,Culture,Low,Summer,Short,Car Rental,Houmt Souk Exploration
+Couple,Culture,Medium,Spring,Medium,Walking,Camel Ride on the Beach
+Group,Relaxation,Medium,Fall,Short,Public Transport,Kitesurfing
+Group,Relaxation,High,Summer,Short,Walking,Visit Guellala Museum
+Group,Relaxation,High,Summer,Long,Public Transport,Kitesurfing
+Group,Culture,Low,Spring,Long,Walking,Artisan Market Shopping
+Couple,Adventure,High,Fall,Short,Public Transport,Luxury Spa Retreat
+Group,Relaxation,Low,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Spring,Short,Walking,Camel Ride on the Beach
+Family,Adventure,High,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,High,Summer,Medium,Car Rental,Luxury Spa Retreat
+Family,Adventure,Medium,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Adventure,Medium,Fall,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,High,Summer,Short,Car Rental,Kitesurfing
+Group,Adventure,High,Summer,Short,Walking,Camel Ride on the Beach
+Group,Relaxation,High,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Culture,Medium,Fall,Long,Car Rental,Artisan Market Shopping
+Couple,Culture,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Group,Culture,Low,Winter,Long,Walking,Kitesurfing
+Couple,Relaxation,Medium,Spring,Medium,Car Rental,Kitesurfing
+Family,Culture,Medium,Fall,Medium,Car Rental,Visit Guellala Museum
+Family,Relaxation,High,Winter,Long,Public Transport,Kitesurfing
+Solo,Adventure,High,Summer,Short,Car Rental,Kitesurfing
+Couple,Relaxation,High,Fall,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Winter,Medium,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Low,Winter,Short,Car Rental,Kitesurfing
+Solo,Relaxation,Low,Spring,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,High,Winter,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Adventure,High,Fall,Long,Walking,Artisan Market Shopping
+Couple,Adventure,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Group,Relaxation,Low,Winter,Short,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Low,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Winter,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Summer,Long,Public Transport,Kitesurfing
+Couple,Relaxation,Medium,Spring,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Culture,High,Winter,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Culture,High,Winter,Medium,Car Rental,Artisan Market Shopping
+Couple,Adventure,Medium,Spring,Medium,Public Transport,Visit Guellala Museum
+Couple,Relaxation,Medium,Summer,Short,Walking,Visit Guellala Museum
+Couple,Adventure,Low,Spring,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Spring,Short,Public Transport,Visit Guellala Museum
+Family,Relaxation,High,Summer,Short,Car Rental,Houmt Souk Exploration
+Family,Relaxation,High,Winter,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Relaxation,High,Summer,Long,Car Rental,Visit Guellala Museum
+Group,Relaxation,Medium,Fall,Short,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Couple,Relaxation,Low,Spring,Medium,Car Rental,Visit Guellala Museum
+Couple,Relaxation,High,Winter,Short,Car Rental,Houmt Souk Exploration
+Group,Adventure,Low,Fall,Short,Public Transport,Visit the Djerba Heritage Museum
+Couple,Adventure,Low,Spring,Short,Public Transport,Artisan Market Shopping
+Solo,Relaxation,Medium,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Spring,Short,Car Rental,Visit Guellala Museum
+Group,Adventure,High,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Group,Culture,High,Fall,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Group,Culture,High,Summer,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,Medium,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Summer,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,Low,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,High,Fall,Medium,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Summer,Medium,Car Rental,Visit Guellala Museum
+Family,Culture,Medium,Summer,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,High,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Summer,Short,Walking,Visit Guellala Museum
+Solo,Adventure,High,Fall,Short,Car Rental,Visit the Djerba Heritage Museum
+Couple,Relaxation,Medium,Spring,Long,Public Transport,Camel Ride on the Beach
+Family,Adventure,Medium,Summer,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Relaxation,High,Summer,Short,Car Rental,Camel Ride on the Beach
+Solo,Adventure,Low,Fall,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Fall,Long,Walking,Kitesurfing
+Group,Adventure,Low,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,Low,Summer,Medium,Public Transport,Artisan Market Shopping
+Couple,Culture,Medium,Summer,Medium,Walking,Houmt Souk Exploration
+Group,Adventure,Medium,Spring,Short,Public Transport,Camel Ride on the Beach
+Couple,Culture,Medium,Winter,Long,Walking,Visit Guellala Museum
+Couple,Relaxation,Low,Winter,Medium,Walking,Artisan Market Shopping
+Family,Culture,Low,Fall,Medium,Public Transport,Kitesurfing
+Group,Adventure,High,Fall,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,Medium,Spring,Medium,Car Rental,Visit Guellala Museum
+Solo,Culture,Low,Winter,Short,Car Rental,Visit Guellala Museum
+Solo,Adventure,High,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Family,Culture,Low,Winter,Long,Car Rental,Camel Ride on the Beach
+Family,Culture,Low,Summer,Long,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Spring,Medium,Public Transport,Visit Guellala Museum
+Family,Relaxation,Medium,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,Medium,Spring,Short,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,High,Winter,Short,Car Rental,Camel Ride on the Beach
+Group,Relaxation,Medium,Summer,Long,Walking,Camel Ride on the Beach
+Group,Adventure,High,Winter,Medium,Walking,Luxury Spa Retreat
+Solo,Adventure,Medium,Winter,Medium,Walking,Houmt Souk Exploration
+Couple,Adventure,Low,Spring,Medium,Public Transport,Kitesurfing
+Solo,Culture,Low,Spring,Long,Car Rental,Camel Ride on the Beach
+Solo,Culture,High,Fall,Short,Car Rental,Visit Guellala Museum
+Solo,Relaxation,High,Spring,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Spring,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Relaxation,High,Summer,Long,Walking,Artisan Market Shopping
+Solo,Relaxation,Low,Summer,Medium,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Spring,Short,Public Transport,Kitesurfing
+Couple,Culture,Low,Summer,Long,Walking,Artisan Market Shopping
+Group,Relaxation,Low,Spring,Medium,Public Transport,Kitesurfing
+Group,Culture,Low,Spring,Long,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Spring,Long,Walking,Kitesurfing
+Group,Relaxation,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Spring,Short,Walking,Kitesurfing
+Group,Adventure,High,Fall,Long,Car Rental,Kitesurfing
+Solo,Adventure,High,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Adventure,High,Summer,Long,Walking,Kitesurfing
+Group,Culture,Medium,Spring,Short,Public Transport,Visit Guellala Museum
+Couple,Adventure,Medium,Winter,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Spring,Medium,Car Rental,Luxury Spa Retreat
+Solo,Culture,High,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Spring,Medium,Car Rental,Artisan Market Shopping
+Solo,Relaxation,High,Fall,Medium,Car Rental,Camel Ride on the Beach
+Family,Relaxation,Low,Spring,Long,Public Transport,Visit Guellala Museum
+Group,Relaxation,Medium,Summer,Short,Walking,Houmt Souk Exploration
+Solo,Adventure,High,Winter,Short,Public Transport,Kitesurfing
+Solo,Relaxation,High,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Fall,Short,Public Transport,Kitesurfing
+Couple,Relaxation,Medium,Summer,Short,Public Transport,Luxury Spa Retreat
+Couple,Culture,Low,Spring,Short,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,High,Fall,Short,Walking,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Summer,Short,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Low,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Spring,Long,Walking,Visit Guellala Museum
+Group,Relaxation,Low,Winter,Medium,Car Rental,Camel Ride on the Beach
+Group,Culture,Medium,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Medium,Summer,Short,Car Rental,Visit Guellala Museum
+Couple,Adventure,High,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,Low,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Group,Culture,High,Summer,Short,Public Transport,Kitesurfing
+Solo,Culture,High,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,High,Fall,Short,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,Medium,Summer,Short,Public Transport,Kitesurfing
+Couple,Culture,High,Winter,Long,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Low,Fall,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Culture,Low,Fall,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Relaxation,Low,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Winter,Medium,Car Rental,Kitesurfing
+Solo,Adventure,Medium,Fall,Long,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,Medium,Summer,Medium,Car Rental,Kitesurfing
+Group,Relaxation,High,Fall,Long,Walking,Artisan Market Shopping
+Solo,Culture,Medium,Summer,Long,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,Low,Fall,Long,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,Medium,Winter,Medium,Car Rental,Visit Guellala Museum
+Solo,Relaxation,Low,Fall,Medium,Walking,Artisan Market Shopping
+Solo,Relaxation,High,Spring,Short,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Spring,Medium,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,High,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,Low,Spring,Short,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,Medium,Summer,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Summer,Medium,Public Transport,Houmt Souk Exploration
+Couple,Culture,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Solo,Culture,Medium,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Spring,Short,Walking,Excursion to Djerba Explore Park
+Family,Adventure,High,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Winter,Short,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,Medium,Summer,Medium,Car Rental,Camel Ride on the Beach
+Group,Relaxation,High,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Solo,Relaxation,Low,Summer,Long,Car Rental,Camel Ride on the Beach
+Solo,Relaxation,High,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Spring,Medium,Car Rental,Visit Guellala Museum
+Family,Adventure,High,Summer,Long,Walking,Excursion to Djerba Explore Park
+Solo,Culture,Medium,Winter,Long,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,High,Fall,Medium,Car Rental,Camel Ride on the Beach
+Solo,Culture,Medium,Fall,Medium,Walking,Houmt Souk Exploration
+Couple,Adventure,Medium,Spring,Medium,Car Rental,Houmt Souk Exploration
+Group,Adventure,Medium,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Adventure,High,Summer,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Culture,High,Spring,Medium,Public Transport,Visit Guellala Museum
+Family,Relaxation,Medium,Winter,Short,Walking,Visit Guellala Museum
+Group,Relaxation,Medium,Winter,Medium,Public Transport,Kitesurfing
+Family,Relaxation,Medium,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Culture,Low,Fall,Medium,Walking,Houmt Souk Exploration
+Couple,Culture,Medium,Summer,Long,Public Transport,Luxury Spa Retreat
+Solo,Culture,Medium,Summer,Medium,Walking,Visit Guellala Museum
+Group,Relaxation,High,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,Medium,Summer,Short,Walking,Houmt Souk Exploration
+Family,Culture,Low,Fall,Long,Walking,Artisan Market Shopping
+Couple,Adventure,Medium,Summer,Short,Car Rental,Camel Ride on the Beach
+Couple,Adventure,Low,Fall,Long,Car Rental,Artisan Market Shopping
+Family,Adventure,Medium,Fall,Short,Car Rental,Camel Ride on the Beach
+Solo,Adventure,Medium,Winter,Long,Walking,Visit Guellala Museum
+Group,Culture,Low,Spring,Short,Walking,Artisan Market Shopping
+Couple,Adventure,Medium,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,Low,Winter,Short,Car Rental,Visit Guellala Museum
+Family,Relaxation,High,Fall,Short,Public Transport,Visit Guellala Museum
+Group,Adventure,Medium,Winter,Short,Walking,Artisan Market Shopping
+Solo,Adventure,Medium,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,High,Winter,Short,Walking,Artisan Market Shopping
+Family,Adventure,High,Winter,Medium,Car Rental,Artisan Market Shopping
+Group,Adventure,High,Spring,Long,Public Transport,Artisan Market Shopping
+Solo,Culture,Low,Winter,Long,Car Rental,Artisan Market Shopping
+Family,Adventure,Medium,Winter,Short,Public Transport,Luxury Spa Retreat
+Family,Culture,Low,Fall,Medium,Walking,Luxury Spa Retreat
+Solo,Adventure,High,Fall,Long,Public Transport,Artisan Market Shopping
+Solo,Relaxation,Low,Spring,Long,Walking,Camel Ride on the Beach
+Solo,Relaxation,Low,Winter,Long,Walking,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Medium,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Fall,Medium,Public Transport,Visit Guellala Museum
+Couple,Adventure,Medium,Winter,Long,Walking,Camel Ride on the Beach
+Group,Culture,High,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Fall,Long,Walking,Luxury Spa Retreat
+Group,Culture,Low,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Winter,Short,Public Transport,Kitesurfing
+Couple,Adventure,Low,Winter,Medium,Car Rental,Kitesurfing
+Solo,Adventure,High,Fall,Long,Public Transport,Kitesurfing
+Family,Relaxation,Medium,Fall,Long,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,High,Winter,Long,Walking,Kitesurfing
+Solo,Relaxation,Low,Fall,Long,Car Rental,Houmt Souk Exploration
+Couple,Culture,High,Spring,Short,Public Transport,Luxury Spa Retreat
+Family,Relaxation,High,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Family,Culture,Low,Summer,Short,Public Transport,Camel Ride on the Beach
+Group,Relaxation,Medium,Winter,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,High,Winter,Long,Walking,Houmt Souk Exploration
+Couple,Culture,Low,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Couple,Relaxation,Medium,Summer,Long,Walking,Explore Borj El Kebir Fort
+Family,Culture,Low,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,High,Fall,Long,Car Rental,Kitesurfing
+Group,Culture,High,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Group,Relaxation,High,Fall,Short,Walking,Luxury Spa Retreat
+Family,Relaxation,Medium,Fall,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Fall,Medium,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,Medium,Summer,Long,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Medium,Spring,Medium,Walking,Artisan Market Shopping
+Couple,Adventure,Low,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Adventure,Low,Summer,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Relaxation,Low,Fall,Short,Walking,Visit Guellala Museum
+Solo,Culture,High,Fall,Medium,Walking,Camel Ride on the Beach
+Couple,Culture,High,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,Low,Spring,Long,Walking,Kitesurfing
+Family,Culture,Low,Winter,Long,Walking,Luxury Spa Retreat
+Couple,Culture,Medium,Summer,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,High,Winter,Long,Public Transport,Artisan Market Shopping
+Family,Culture,Low,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Family,Culture,Medium,Fall,Medium,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,Low,Spring,Long,Walking,Kitesurfing
+Group,Culture,High,Winter,Short,Car Rental,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Winter,Medium,Public Transport,Kitesurfing
+Couple,Culture,Low,Summer,Medium,Walking,Kitesurfing
+Solo,Adventure,High,Summer,Short,Walking,Kitesurfing
+Family,Adventure,Low,Winter,Short,Walking,Excursion to Djerba Explore Park
+Group,Adventure,High,Winter,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Low,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Adventure,Medium,Winter,Short,Walking,Houmt Souk Exploration
+Couple,Relaxation,Medium,Summer,Long,Car Rental,Artisan Market Shopping
+Family,Relaxation,Medium,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Relaxation,Low,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,Low,Summer,Long,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,High,Fall,Short,Walking,Kitesurfing
+Solo,Culture,High,Winter,Short,Walking,Camel Ride on the Beach
+Family,Culture,Medium,Winter,Medium,Car Rental,Artisan Market Shopping
+Family,Adventure,Medium,Winter,Short,Car Rental,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,High,Winter,Short,Car Rental,Kitesurfing
+Group,Relaxation,High,Spring,Long,Walking,Excursion to Djerba Explore Park
+Group,Culture,Low,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Culture,Low,Winter,Medium,Public Transport,Visit Guellala Museum
+Family,Adventure,High,Winter,Short,Public Transport,Visit Guellala Museum
+Solo,Adventure,High,Winter,Short,Public Transport,Artisan Market Shopping
+Couple,Culture,High,Fall,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Winter,Medium,Car Rental,Artisan Market Shopping
+Solo,Culture,Low,Spring,Short,Public Transport,Visit Guellala Museum
+Couple,Adventure,Medium,Winter,Long,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Low,Winter,Long,Walking,Visit Guellala Museum
+Couple,Culture,High,Summer,Long,Walking,Excursion to Djerba Explore Park
+Family,Adventure,High,Fall,Short,Walking,Excursion to Djerba Explore Park
+Group,Adventure,High,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Medium,Spring,Short,Walking,Excursion to Djerba Explore Park
+Group,Culture,Medium,Fall,Short,Walking,Kitesurfing
+Solo,Adventure,Low,Summer,Short,Public Transport,Luxury Spa Retreat
+Solo,Adventure,Medium,Fall,Short,Walking,Artisan Market Shopping
+Solo,Adventure,Medium,Fall,Short,Car Rental,Kitesurfing
+Family,Culture,Medium,Spring,Short,Car Rental,Visit Guellala Museum
+Family,Adventure,High,Fall,Long,Car Rental,Houmt Souk Exploration
+Solo,Culture,Medium,Winter,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Adventure,Medium,Summer,Short,Public Transport,Kitesurfing
+Couple,Adventure,Low,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Relaxation,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Couple,Relaxation,Medium,Fall,Short,Public Transport,Houmt Souk Exploration
+Solo,Adventure,Low,Fall,Short,Car Rental,Luxury Spa Retreat
+Family,Relaxation,High,Winter,Medium,Walking,Luxury Spa Retreat
+Family,Adventure,High,Spring,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,Medium,Fall,Long,Public Transport,Kitesurfing
+Group,Culture,Low,Fall,Medium,Public Transport,Artisan Market Shopping
+Solo,Culture,Low,Spring,Short,Car Rental,Visit Guellala Museum
+Group,Culture,Low,Summer,Medium,Walking,Camel Ride on the Beach
+Solo,Adventure,Low,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Summer,Medium,Public Transport,Kitesurfing
+Group,Adventure,High,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Relaxation,High,Summer,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,High,Summer,Medium,Public Transport,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Winter,Medium,Walking,Camel Ride on the Beach
+Solo,Adventure,Low,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,Medium,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Spring,Long,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,Medium,Summer,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,High,Winter,Long,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Fall,Short,Car Rental,Camel Ride on the Beach
+Family,Adventure,Medium,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,Low,Summer,Long,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Adventure,Low,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Low,Spring,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Medium,Spring,Medium,Walking,Visit Guellala Museum
+Group,Culture,High,Summer,Medium,Walking,Kitesurfing
+Group,Culture,Medium,Spring,Long,Walking,Luxury Spa Retreat
+Couple,Relaxation,High,Summer,Medium,Car Rental,Kitesurfing
+Family,Culture,Medium,Spring,Short,Car Rental,Kitesurfing
+Solo,Adventure,Medium,Winter,Medium,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,High,Winter,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Winter,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Adventure,High,Winter,Long,Walking,Kitesurfing
+Group,Culture,Low,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Family,Adventure,High,Spring,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,Medium,Spring,Medium,Walking,Artisan Market Shopping
+Solo,Relaxation,Medium,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Summer,Short,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,High,Spring,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,Low,Fall,Long,Car Rental,Artisan Market Shopping
+Group,Relaxation,Low,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Low,Spring,Medium,Walking,Camel Ride on the Beach
+Solo,Adventure,High,Summer,Medium,Walking,Kitesurfing
+Family,Adventure,Low,Spring,Short,Car Rental,Visit Guellala Museum
+Solo,Relaxation,Low,Spring,Medium,Public Transport,Houmt Souk Exploration
+Couple,Relaxation,High,Spring,Short,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Relaxation,Low,Fall,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Low,Winter,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Winter,Short,Car Rental,Artisan Market Shopping
+Couple,Adventure,High,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,Medium,Spring,Short,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Spring,Long,Walking,Artisan Market Shopping
+Group,Adventure,Low,Fall,Long,Walking,Artisan Market Shopping
+Solo,Relaxation,Medium,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Medium,Summer,Medium,Public Transport,Luxury Spa Retreat
+Group,Adventure,Medium,Summer,Medium,Public Transport,Artisan Market Shopping
+Group,Adventure,High,Summer,Long,Public Transport,Camel Ride on the Beach
+Couple,Relaxation,Low,Fall,Long,Walking,Luxury Spa Retreat
+Solo,Culture,High,Summer,Long,Public Transport,Houmt Souk Exploration
+Couple,Relaxation,Low,Winter,Medium,Car Rental,Houmt Souk Exploration
+Group,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Family,Adventure,Low,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Group,Culture,Low,Summer,Long,Car Rental,Kitesurfing
+Group,Relaxation,Medium,Winter,Short,Public Transport,Luxury Spa Retreat
+Solo,Culture,Medium,Summer,Medium,Car Rental,Kitesurfing
+Family,Relaxation,Medium,Fall,Long,Car Rental,Luxury Spa Retreat
+Group,Relaxation,Medium,Summer,Medium,Walking,Houmt Souk Exploration
+Solo,Adventure,High,Summer,Medium,Car Rental,Kitesurfing
+Solo,Relaxation,Low,Winter,Long,Walking,Visit Guellala Museum
+Solo,Adventure,Low,Fall,Short,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,High,Fall,Long,Public Transport,Visit Guellala Museum
+Solo,Adventure,Low,Winter,Short,Car Rental,Houmt Souk Exploration
+Group,Relaxation,Medium,Summer,Long,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Summer,Long,Car Rental,Artisan Market Shopping
+Couple,Relaxation,Medium,Spring,Long,Car Rental,Luxury Spa Retreat
+Solo,Culture,Medium,Fall,Medium,Car Rental,Artisan Market Shopping
+Solo,Adventure,Medium,Summer,Short,Car Rental,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Spring,Medium,Public Transport,Houmt Souk Exploration
+Group,Adventure,High,Winter,Short,Public Transport,Camel Ride on the Beach
+Family,Relaxation,High,Summer,Short,Car Rental,Kitesurfing
+Family,Adventure,High,Winter,Long,Public Transport,Artisan Market Shopping
+Group,Culture,High,Summer,Long,Car Rental,Visit the Djerba Heritage Museum
+Couple,Culture,High,Fall,Medium,Walking,Houmt Souk Exploration
+Group,Adventure,Medium,Winter,Medium,Walking,Artisan Market Shopping
+Couple,Relaxation,High,Winter,Long,Car Rental,Relax at Sidi Mahres Beach
+Group,Culture,High,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Winter,Long,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Fall,Medium,Public Transport,Luxury Spa Retreat
+Group,Relaxation,Medium,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Low,Spring,Long,Walking,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Winter,Medium,Public Transport,Kitesurfing
+Family,Adventure,Low,Winter,Long,Car Rental,Visit Guellala Museum
+Group,Culture,High,Winter,Long,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,Medium,Winter,Medium,Car Rental,Houmt Souk Exploration
+Couple,Culture,Low,Winter,Short,Car Rental,Kitesurfing
+Group,Relaxation,High,Winter,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Summer,Short,Public Transport,Kitesurfing
+Group,Culture,Medium,Summer,Short,Car Rental,Kitesurfing
+Solo,Relaxation,Medium,Winter,Short,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Low,Spring,Long,Public Transport,Kitesurfing
+Solo,Adventure,Medium,Summer,Long,Car Rental,Houmt Souk Exploration
+Solo,Adventure,High,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Low,Winter,Short,Walking,Kitesurfing
+Couple,Adventure,High,Fall,Short,Walking,Camel Ride on the Beach
+Group,Relaxation,Medium,Summer,Medium,Walking,Excursion to Djerba Explore Park
+Family,Culture,High,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Medium,Winter,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Adventure,Medium,Spring,Medium,Walking,Luxury Spa Retreat
+Solo,Adventure,Medium,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,Low,Spring,Short,Car Rental,Artisan Market Shopping
+Solo,Culture,Medium,Spring,Long,Public Transport,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Winter,Medium,Public Transport,Kitesurfing
+Solo,Relaxation,Medium,Fall,Medium,Walking,Visit Guellala Museum
+Couple,Relaxation,Low,Fall,Long,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,High,Spring,Short,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Group,Culture,Low,Winter,Long,Car Rental,Camel Ride on the Beach
+Couple,Culture,Low,Winter,Long,Walking,Kitesurfing
+Couple,Relaxation,Medium,Fall,Short,Public Transport,Artisan Market Shopping
+Group,Culture,Medium,Spring,Long,Walking,Houmt Souk Exploration
+Couple,Relaxation,Medium,Fall,Short,Walking,Houmt Souk Exploration
+Group,Culture,Medium,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Family,Adventure,High,Spring,Long,Public Transport,Explore Borj El Kebir Fort
+Group,Culture,High,Summer,Long,Public Transport,Visit Guellala Museum
+Couple,Relaxation,Medium,Summer,Medium,Public Transport,Relax at Sidi Mahres Beach
+Couple,Adventure,Medium,Spring,Long,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,Low,Fall,Medium,Car Rental,Camel Ride on the Beach
+Group,Adventure,High,Spring,Short,Public Transport,Camel Ride on the Beach
+Solo,Adventure,High,Summer,Short,Walking,Explore Borj El Kebir Fort
+Family,Culture,Low,Winter,Long,Car Rental,Luxury Spa Retreat
+Group,Relaxation,High,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Family,Adventure,High,Spring,Medium,Car Rental,Luxury Spa Retreat
+Family,Culture,High,Summer,Long,Walking,Houmt Souk Exploration
+Solo,Adventure,Low,Summer,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Fall,Medium,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Fall,Short,Car Rental,Kitesurfing
+Couple,Relaxation,Medium,Fall,Medium,Public Transport,Camel Ride on the Beach
+Group,Adventure,High,Fall,Short,Walking,Kitesurfing
+Family,Adventure,Medium,Winter,Medium,Car Rental,Houmt Souk Exploration
+Family,Relaxation,High,Fall,Long,Public Transport,Kitesurfing
+Group,Culture,Low,Winter,Short,Walking,Visit Guellala Museum
+Couple,Relaxation,Low,Spring,Short,Car Rental,Excursion to Djerba Explore Park
+Group,Relaxation,High,Spring,Medium,Walking,Houmt Souk Exploration
+Group,Adventure,Low,Winter,Medium,Car Rental,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Spring,Long,Walking,Visit Guellala Museum
+Couple,Adventure,Medium,Summer,Short,Car Rental,Visit Guellala Museum
+Solo,Culture,Medium,Summer,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,Medium,Fall,Medium,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Winter,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Winter,Short,Public Transport,Visit Guellala Museum
+Couple,Culture,Medium,Spring,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,High,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,Medium,Spring,Medium,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,Medium,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Winter,Long,Public Transport,Artisan Market Shopping
+Couple,Adventure,Medium,Spring,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,High,Summer,Short,Public Transport,Visit Guellala Museum
+Group,Relaxation,High,Spring,Long,Public Transport,Camel Ride on the Beach
+Solo,Adventure,Medium,Summer,Short,Walking,Visit Guellala Museum
+Family,Culture,Low,Fall,Short,Walking,Houmt Souk Exploration
+Group,Culture,Medium,Winter,Short,Public Transport,Visit Guellala Museum
+Family,Relaxation,Low,Fall,Short,Walking,Houmt Souk Exploration
+Couple,Adventure,Low,Summer,Long,Public Transport,Houmt Souk Exploration
+Solo,Relaxation,Medium,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,High,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Spring,Long,Walking,Camel Ride on the Beach
+Group,Culture,Medium,Summer,Medium,Walking,Camel Ride on the Beach
+Couple,Adventure,Medium,Spring,Short,Public Transport,Houmt Souk Exploration
+Group,Adventure,Low,Winter,Medium,Public Transport,Visit Guellala Museum
+Family,Culture,High,Summer,Short,Car Rental,Artisan Market Shopping
+Family,Relaxation,Low,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,High,Fall,Medium,Car Rental,Artisan Market Shopping
+Couple,Adventure,High,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Winter,Long,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Spring,Medium,Car Rental,Houmt Souk Exploration
+Group,Relaxation,Medium,Spring,Long,Car Rental,Kitesurfing
+Solo,Adventure,High,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Low,Fall,Short,Walking,Visit Guellala Museum
+Family,Relaxation,High,Fall,Long,Walking,Artisan Market Shopping
+Family,Culture,Medium,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,High,Spring,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,High,Summer,Short,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Summer,Short,Public Transport,Houmt Souk Exploration
+Group,Culture,High,Fall,Long,Walking,Artisan Market Shopping
+Couple,Culture,Low,Spring,Long,Walking,Kitesurfing
+Solo,Culture,Medium,Spring,Long,Car Rental,Visit Guellala Museum
+Couple,Relaxation,High,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Medium,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Medium,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Summer,Medium,Walking,Artisan Market Shopping
+Solo,Culture,Low,Fall,Medium,Public Transport,Luxury Spa Retreat
+Group,Culture,High,Fall,Short,Public Transport,Visit Guellala Museum
+Family,Relaxation,Medium,Fall,Medium,Walking,Artisan Market Shopping
+Solo,Adventure,Low,Fall,Long,Car Rental,Kitesurfing
+Solo,Relaxation,High,Spring,Short,Public Transport,Luxury Spa Retreat
+Family,Adventure,Low,Fall,Medium,Public Transport,Camel Ride on the Beach
+Group,Adventure,High,Winter,Medium,Walking,Excursion to Djerba Explore Park
+Family,Adventure,Medium,Spring,Medium,Car Rental,Kitesurfing
+Solo,Adventure,Medium,Winter,Short,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Spring,Medium,Public Transport,Kitesurfing
+Group,Relaxation,Medium,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Summer,Long,Public Transport,Kitesurfing
+Couple,Adventure,High,Summer,Medium,Public Transport,Visit Guellala Museum
+Group,Culture,High,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,High,Spring,Long,Public Transport,Luxury Spa Retreat
+Couple,Culture,Low,Winter,Medium,Walking,Kitesurfing
+Group,Adventure,High,Spring,Medium,Walking,Houmt Souk Exploration
+Group,Culture,Medium,Fall,Long,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,High,Fall,Short,Public Transport,Relax at Sidi Mahres Beach
+Group,Adventure,High,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Family,Relaxation,High,Winter,Medium,Public Transport,Visit Guellala Museum
+Family,Adventure,Medium,Winter,Short,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Winter,Medium,Public Transport,Kitesurfing
+Couple,Culture,High,Summer,Short,Walking,Houmt Souk Exploration
+Family,Culture,Medium,Summer,Short,Walking,Excursion to Djerba Explore Park
+Solo,Relaxation,Low,Winter,Long,Walking,Visit Guellala Museum
+Couple,Adventure,Medium,Summer,Long,Car Rental,Houmt Souk Exploration
+Family,Relaxation,Medium,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Winter,Medium,Walking,Luxury Spa Retreat
+Family,Adventure,Medium,Spring,Short,Car Rental,Houmt Souk Exploration
+Solo,Adventure,Medium,Winter,Short,Car Rental,Houmt Souk Exploration
+Solo,Adventure,Medium,Winter,Long,Walking,Artisan Market Shopping
+Family,Relaxation,High,Summer,Short,Walking,Kitesurfing
+Solo,Adventure,Low,Winter,Long,Public Transport,Artisan Market Shopping
+Family,Relaxation,Low,Summer,Short,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Medium,Winter,Medium,Public Transport,Kitesurfing
+Group,Culture,Low,Fall,Long,Car Rental,Explore Borj El Kebir Fort
+Group,Culture,High,Fall,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Spring,Long,Public Transport,Houmt Souk Exploration
+Family,Adventure,Medium,Spring,Medium,Walking,Visit Guellala Museum
+Couple,Relaxation,Medium,Summer,Long,Walking,Explore Borj El Kebir Fort
+Solo,Culture,Low,Summer,Short,Walking,Excursion to Djerba Explore Park
+Couple,Culture,Low,Summer,Long,Walking,Visit Guellala Museum
+Group,Culture,Low,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Family,Relaxation,High,Summer,Short,Car Rental,Artisan Market Shopping
+Group,Adventure,Low,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,Medium,Spring,Medium,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Medium,Summer,Medium,Public Transport,Visit Guellala Museum
+Group,Relaxation,Low,Summer,Medium,Car Rental,Artisan Market Shopping
+Couple,Adventure,High,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Summer,Short,Public Transport,Visit Guellala Museum
+Group,Adventure,Low,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,Medium,Winter,Long,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Short,Walking,Excursion to Djerba Explore Park
+Family,Culture,Low,Fall,Short,Car Rental,Visit Guellala Museum
+Couple,Adventure,Medium,Summer,Short,Car Rental,Kitesurfing
+Group,Adventure,Medium,Winter,Short,Walking,Camel Ride on the Beach
+Solo,Adventure,High,Winter,Medium,Walking,Artisan Market Shopping
+Group,Culture,Low,Summer,Medium,Walking,Excursion to Djerba Explore Park
+Family,Culture,Medium,Spring,Short,Walking,Camel Ride on the Beach
+Couple,Adventure,High,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Summer,Short,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Low,Fall,Short,Car Rental,Houmt Souk Exploration
+Family,Adventure,High,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Summer,Medium,Walking,Artisan Market Shopping
+Family,Relaxation,Medium,Winter,Short,Public Transport,Visit Guellala Museum
+Solo,Relaxation,High,Spring,Long,Car Rental,Artisan Market Shopping
+Group,Culture,Low,Winter,Medium,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Winter,Medium,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,High,Fall,Short,Car Rental,Luxury Spa Retreat
+Family,Relaxation,High,Fall,Long,Walking,Kitesurfing
+Solo,Adventure,High,Spring,Short,Car Rental,Kitesurfing
+Couple,Relaxation,Medium,Summer,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Relaxation,Medium,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,Low,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Summer,Short,Walking,Camel Ride on the Beach
+Solo,Relaxation,Low,Summer,Short,Walking,Houmt Souk Exploration
+Family,Adventure,Low,Winter,Long,Car Rental,Artisan Market Shopping
+Group,Culture,Low,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Winter,Short,Car Rental,Camel Ride on the Beach
+Family,Adventure,Low,Winter,Short,Public Transport,Camel Ride on the Beach
+Family,Culture,Medium,Winter,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Spring,Short,Walking,Kitesurfing
+Family,Culture,High,Fall,Long,Car Rental,Kitesurfing
+Group,Relaxation,Low,Fall,Medium,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,Medium,Spring,Short,Walking,Luxury Spa Retreat
+Family,Culture,Medium,Fall,Long,Walking,Luxury Spa Retreat
+Couple,Culture,Medium,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Fall,Medium,Walking,Visit Guellala Museum
+Family,Culture,High,Spring,Long,Public Transport,Camel Ride on the Beach
+Solo,Adventure,High,Spring,Long,Public Transport,Visit Guellala Museum
+Group,Relaxation,High,Summer,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,High,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Spring,Short,Car Rental,Houmt Souk Exploration
+Solo,Adventure,Medium,Summer,Short,Walking,Artisan Market Shopping
+Solo,Adventure,Low,Winter,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Relaxation,Medium,Winter,Long,Public Transport,Luxury Spa Retreat
+Group,Relaxation,High,Winter,Short,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Summer,Short,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Winter,Long,Car Rental,Kitesurfing
+Group,Adventure,High,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,High,Winter,Long,Car Rental,Luxury Spa Retreat
+Group,Culture,Low,Summer,Medium,Walking,Kitesurfing
+Family,Culture,Low,Spring,Short,Car Rental,Kitesurfing
+Couple,Culture,Low,Summer,Long,Walking,Visit Guellala Museum
+Couple,Relaxation,Medium,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Culture,High,Winter,Medium,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Fall,Medium,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Spring,Medium,Walking,Luxury Spa Retreat
+Family,Adventure,Medium,Summer,Long,Public Transport,Artisan Market Shopping
+Family,Culture,High,Winter,Long,Walking,Luxury Spa Retreat
+Couple,Relaxation,Low,Fall,Long,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,High,Fall,Medium,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Low,Spring,Long,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,High,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Group,Culture,High,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Fall,Medium,Car Rental,Kitesurfing
+Family,Relaxation,Medium,Summer,Short,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,High,Fall,Medium,Public Transport,Artisan Market Shopping
+Family,Culture,High,Winter,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,Medium,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,Low,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Winter,Medium,Walking,Houmt Souk Exploration
+Group,Culture,Medium,Spring,Long,Walking,Luxury Spa Retreat
+Couple,Culture,High,Winter,Medium,Public Transport,Visit Guellala Museum
+Couple,Adventure,Medium,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Couple,Relaxation,Medium,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Adventure,High,Spring,Medium,Public Transport,Luxury Spa Retreat
+Couple,Culture,Medium,Fall,Long,Car Rental,Camel Ride on the Beach
+Solo,Adventure,Medium,Summer,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Culture,High,Winter,Short,Public Transport,Luxury Spa Retreat
+Solo,Culture,High,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Culture,Medium,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,High,Spring,Short,Walking,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Spring,Long,Public Transport,Visit Guellala Museum
+Solo,Adventure,Medium,Spring,Long,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Spring,Long,Walking,Luxury Spa Retreat
+Group,Relaxation,Low,Winter,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,Medium,Spring,Long,Walking,Camel Ride on the Beach
+Family,Culture,Low,Spring,Short,Walking,Artisan Market Shopping
+Solo,Adventure,High,Fall,Long,Public Transport,Luxury Spa Retreat
+Family,Adventure,Medium,Summer,Medium,Walking,Kitesurfing
+Couple,Relaxation,Medium,Fall,Short,Walking,Artisan Market Shopping
+Couple,Adventure,High,Summer,Long,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Winter,Medium,Walking,Houmt Souk Exploration
+Solo,Relaxation,Medium,Fall,Medium,Car Rental,Houmt Souk Exploration
+Group,Relaxation,Low,Fall,Short,Public Transport,Luxury Spa Retreat
+Solo,Culture,Medium,Fall,Medium,Public Transport,Artisan Market Shopping
+Group,Culture,Medium,Summer,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Spring,Short,Public Transport,Houmt Souk Exploration
+Solo,Relaxation,Low,Winter,Medium,Public Transport,Visit Guellala Museum
+Group,Relaxation,High,Fall,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Fall,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,Medium,Spring,Short,Car Rental,Kitesurfing
+Solo,Relaxation,Medium,Spring,Long,Walking,Visit Guellala Museum
+Solo,Relaxation,Low,Spring,Short,Public Transport,Camel Ride on the Beach
+Solo,Adventure,Low,Summer,Long,Car Rental,Houmt Souk Exploration
+Couple,Culture,High,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,Low,Fall,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Spring,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Fall,Short,Public Transport,Artisan Market Shopping
+Family,Adventure,Medium,Summer,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Relaxation,High,Winter,Medium,Public Transport,Explore Borj El Kebir Fort
+Family,Relaxation,High,Summer,Short,Walking,Kitesurfing
+Group,Culture,Medium,Winter,Long,Public Transport,Luxury Spa Retreat
+Group,Culture,Medium,Spring,Medium,Car Rental,Visit Guellala Museum
+Couple,Relaxation,High,Winter,Long,Walking,Explore Borj El Kebir Fort
+Family,Culture,Medium,Fall,Medium,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Low,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Summer,Medium,Car Rental,Kitesurfing
+Couple,Relaxation,High,Fall,Short,Walking,Artisan Market Shopping
+Solo,Adventure,Medium,Summer,Long,Public Transport,Artisan Market Shopping
+Solo,Relaxation,Low,Winter,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Summer,Medium,Public Transport,Visit the Djerba Heritage Museum
+Solo,Relaxation,Low,Summer,Medium,Car Rental,Visit the Djerba Heritage Museum
+Couple,Culture,Low,Winter,Long,Car Rental,Kitesurfing
+Family,Culture,Medium,Spring,Medium,Walking,Houmt Souk Exploration
+Couple,Adventure,Medium,Summer,Long,Car Rental,Houmt Souk Exploration
+Couple,Adventure,High,Summer,Medium,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,High,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Culture,Medium,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,Low,Winter,Long,Walking,Excursion to Djerba Explore Park
+Family,Adventure,High,Fall,Short,Car Rental,Artisan Market Shopping
+Solo,Culture,High,Fall,Short,Public Transport,Artisan Market Shopping
+Family,Adventure,High,Winter,Long,Walking,Luxury Spa Retreat
+Couple,Relaxation,Low,Spring,Medium,Walking,Kitesurfing
+Couple,Adventure,Low,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Group,Adventure,Low,Spring,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,High,Summer,Long,Public Transport,Visit Guellala Museum
+Couple,Relaxation,Low,Fall,Short,Car Rental,Visit Guellala Museum
+Family,Relaxation,High,Summer,Long,Public Transport,Kitesurfing
+Family,Adventure,Medium,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Summer,Short,Walking,Artisan Market Shopping
+Group,Adventure,Low,Fall,Medium,Public Transport,Camel Ride on the Beach
+Couple,Relaxation,Low,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Summer,Short,Public Transport,Artisan Market Shopping
+Couple,Relaxation,High,Spring,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Summer,Long,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Spring,Short,Car Rental,Kitesurfing
+Group,Relaxation,Medium,Spring,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,Low,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,High,Winter,Short,Walking,Camel Ride on the Beach
+Solo,Adventure,Low,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Winter,Long,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Spring,Medium,Car Rental,Luxury Spa Retreat
+Family,Culture,Low,Winter,Medium,Car Rental,Luxury Spa Retreat
+Couple,Culture,High,Winter,Medium,Public Transport,Houmt Souk Exploration
+Family,Relaxation,Low,Summer,Long,Walking,Houmt Souk Exploration
+Group,Adventure,Low,Summer,Short,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Low,Fall,Short,Car Rental,Kitesurfing
+Solo,Relaxation,Medium,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Culture,High,Summer,Long,Car Rental,Artisan Market Shopping
+Family,Adventure,High,Spring,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Relaxation,Medium,Fall,Medium,Walking,Kitesurfing
+Couple,Adventure,High,Winter,Medium,Walking,Artisan Market Shopping
+Solo,Relaxation,Medium,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,High,Summer,Long,Car Rental,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Summer,Medium,Public Transport,Luxury Spa Retreat
+Group,Culture,Low,Winter,Medium,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Medium,Winter,Long,Walking,Camel Ride on the Beach
+Group,Relaxation,Low,Summer,Long,Walking,Artisan Market Shopping
+Family,Relaxation,High,Summer,Short,Car Rental,Kitesurfing
+Couple,Adventure,Medium,Summer,Long,Walking,Artisan Market Shopping
+Solo,Adventure,Low,Summer,Long,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Medium,Winter,Short,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Summer,Short,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,High,Spring,Short,Public Transport,Luxury Spa Retreat
+Couple,Adventure,High,Fall,Medium,Public Transport,Explore Borj El Kebir Fort
+Couple,Adventure,High,Spring,Medium,Walking,Artisan Market Shopping
+Solo,Culture,High,Spring,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,High,Summer,Long,Public Transport,Relax at Sidi Mahres Beach
+Solo,Culture,Low,Fall,Long,Walking,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Spring,Medium,Walking,Luxury Spa Retreat
+Solo,Culture,Medium,Fall,Medium,Public Transport,Kitesurfing
+Couple,Culture,High,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Family,Culture,High,Fall,Short,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,Medium,Summer,Long,Car Rental,Relax at Sidi Mahres Beach
+Group,Culture,Low,Fall,Medium,Car Rental,Camel Ride on the Beach
+Group,Culture,Low,Winter,Short,Car Rental,Luxury Spa Retreat
+Group,Adventure,Low,Spring,Long,Public Transport,Kitesurfing
+Couple,Culture,Medium,Summer,Medium,Walking,Houmt Souk Exploration
+Group,Relaxation,Low,Summer,Long,Public Transport,Kitesurfing
+Solo,Relaxation,Medium,Spring,Long,Public Transport,Luxury Spa Retreat
+Family,Adventure,High,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Couple,Culture,Low,Winter,Long,Car Rental,Kitesurfing
+Solo,Culture,High,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Winter,Short,Walking,Kitesurfing
+Family,Culture,Medium,Summer,Medium,Car Rental,Kitesurfing
+Family,Relaxation,Medium,Fall,Short,Public Transport,Houmt Souk Exploration
+Solo,Relaxation,Low,Summer,Long,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,High,Summer,Short,Car Rental,Excursion to Djerba Explore Park
+Couple,Relaxation,Low,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,High,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Summer,Long,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,Low,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Culture,Low,Fall,Long,Public Transport,Artisan Market Shopping
+Couple,Culture,Medium,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Medium,Spring,Medium,Car Rental,Artisan Market Shopping
+Group,Relaxation,Medium,Summer,Short,Public Transport,Luxury Spa Retreat
+Family,Culture,Medium,Fall,Short,Public Transport,Camel Ride on the Beach
+Family,Adventure,Medium,Spring,Medium,Car Rental,Artisan Market Shopping
+Couple,Culture,Medium,Summer,Medium,Car Rental,Luxury Spa Retreat
+Couple,Culture,High,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Medium,Summer,Medium,Public Transport,Visit Guellala Museum
+Group,Adventure,Medium,Spring,Short,Walking,Artisan Market Shopping
+Family,Adventure,High,Summer,Short,Public Transport,Houmt Souk Exploration
+Solo,Relaxation,High,Fall,Short,Walking,Kitesurfing
+Solo,Relaxation,Medium,Spring,Short,Public Transport,Camel Ride on the Beach
+Group,Relaxation,Low,Summer,Long,Public Transport,Houmt Souk Exploration
+Family,Relaxation,Low,Spring,Medium,Car Rental,Camel Ride on the Beach
+Solo,Culture,Medium,Summer,Short,Car Rental,Camel Ride on the Beach
+Couple,Culture,Medium,Summer,Short,Public Transport,Camel Ride on the Beach
+Family,Culture,High,Winter,Short,Public Transport,Visit Guellala Museum
+Couple,Culture,High,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Family,Culture,High,Fall,Long,Public Transport,Artisan Market Shopping
+Solo,Relaxation,High,Winter,Medium,Car Rental,Artisan Market Shopping
+Group,Relaxation,Medium,Spring,Long,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,Medium,Winter,Long,Public Transport,Kitesurfing
+Couple,Relaxation,Medium,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,Medium,Fall,Medium,Car Rental,Visit Guellala Museum
+Group,Relaxation,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Couple,Adventure,Medium,Summer,Short,Public Transport,Kitesurfing
+Group,Adventure,Low,Fall,Long,Public Transport,Luxury Spa Retreat
+Family,Culture,Medium,Summer,Long,Public Transport,Visit Guellala Museum
+Couple,Relaxation,Medium,Summer,Short,Public Transport,Kitesurfing
+Couple,Culture,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Group,Culture,High,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,Low,Summer,Long,Car Rental,Camel Ride on the Beach
+Family,Adventure,Medium,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Summer,Short,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Summer,Short,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Winter,Long,Walking,Luxury Spa Retreat
+Family,Adventure,High,Winter,Medium,Car Rental,Houmt Souk Exploration
+Family,Adventure,Low,Spring,Short,Walking,Artisan Market Shopping
+Group,Culture,High,Winter,Short,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Summer,Short,Walking,Artisan Market Shopping
+Solo,Culture,Low,Spring,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Fall,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Fall,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,Low,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Solo,Relaxation,Low,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Adventure,High,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Low,Spring,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,Low,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Low,Winter,Medium,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Medium,Winter,Medium,Walking,Houmt Souk Exploration
+Couple,Adventure,Low,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Spring,Medium,Car Rental,Camel Ride on the Beach
+Family,Relaxation,Medium,Winter,Medium,Public Transport,Houmt Souk Exploration
+Solo,Adventure,Medium,Spring,Long,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,Medium,Summer,Long,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Winter,Long,Walking,Kitesurfing
+Couple,Culture,Low,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Summer,Short,Car Rental,Luxury Spa Retreat
+Family,Culture,Medium,Winter,Long,Public Transport,Camel Ride on the Beach
+Family,Culture,Low,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Family,Culture,Medium,Winter,Medium,Walking,Luxury Spa Retreat
+Family,Adventure,High,Winter,Short,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,Low,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,Medium,Summer,Medium,Walking,Camel Ride on the Beach
+Couple,Culture,Medium,Fall,Short,Car Rental,Visit Guellala Museum
+Couple,Relaxation,High,Winter,Long,Walking,Visit Guellala Museum
+Couple,Relaxation,Medium,Spring,Long,Walking,Kitesurfing
+Family,Relaxation,High,Spring,Short,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Fall,Long,Public Transport,Luxury Spa Retreat
+Couple,Culture,Medium,Spring,Short,Public Transport,Kitesurfing
+Group,Relaxation,High,Summer,Medium,Public Transport,Artisan Market Shopping
+Couple,Adventure,Low,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Fall,Medium,Car Rental,Relax at Sidi Mahres Beach
+Solo,Relaxation,Medium,Spring,Medium,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,High,Fall,Short,Walking,Explore Borj El Kebir Fort
+Group,Culture,Medium,Spring,Short,Walking,Relax at Sidi Mahres Beach
+Couple,Adventure,Medium,Winter,Long,Car Rental,Artisan Market Shopping
+Couple,Relaxation,High,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Group,Culture,Medium,Winter,Long,Walking,Houmt Souk Exploration
+Solo,Culture,Low,Spring,Short,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Winter,Medium,Car Rental,Kitesurfing
+Couple,Culture,Medium,Spring,Medium,Car Rental,Kitesurfing
+Solo,Culture,High,Spring,Long,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Low,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Winter,Medium,Public Transport,Artisan Market Shopping
+Family,Culture,Low,Summer,Long,Public Transport,Houmt Souk Exploration
+Family,Adventure,Low,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Family,Culture,Low,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Family,Culture,Low,Fall,Long,Public Transport,Visit Guellala Museum
+Solo,Culture,Medium,Summer,Long,Car Rental,Artisan Market Shopping
+Couple,Culture,Medium,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Summer,Medium,Car Rental,Artisan Market Shopping
+Couple,Adventure,High,Summer,Long,Car Rental,Houmt Souk Exploration
+Couple,Adventure,High,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Culture,Medium,Summer,Medium,Walking,Luxury Spa Retreat
+Couple,Culture,Low,Spring,Long,Walking,Houmt Souk Exploration
+Family,Relaxation,Low,Fall,Medium,Walking,Luxury Spa Retreat
+Family,Relaxation,Medium,Fall,Short,Walking,Kitesurfing
+Group,Adventure,High,Winter,Short,Car Rental,Camel Ride on the Beach
+Solo,Relaxation,Medium,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,Low,Winter,Medium,Public Transport,Visit Guellala Museum
+Couple,Culture,High,Summer,Medium,Car Rental,Camel Ride on the Beach
+Group,Relaxation,Low,Summer,Short,Public Transport,Visit Guellala Museum
+Solo,Culture,High,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Adventure,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Fall,Medium,Car Rental,Camel Ride on the Beach
+Couple,Culture,High,Spring,Medium,Car Rental,Visit Guellala Museum
+Couple,Adventure,Medium,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Winter,Short,Walking,Excursion to Djerba Explore Park
+Solo,Culture,High,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Adventure,High,Summer,Medium,Public Transport,Explore Borj El Kebir Fort
+Group,Culture,Low,Spring,Medium,Car Rental,Luxury Spa Retreat
+Group,Relaxation,High,Summer,Medium,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,Low,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Spring,Medium,Walking,Camel Ride on the Beach
+Couple,Relaxation,Medium,Spring,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Adventure,Medium,Fall,Short,Car Rental,Relax at Sidi Mahres Beach
+Solo,Adventure,Medium,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Group,Culture,Medium,Summer,Long,Public Transport,Artisan Market Shopping
+Solo,Relaxation,High,Spring,Medium,Public Transport,Camel Ride on the Beach
+Solo,Culture,Low,Winter,Short,Car Rental,Visit Guellala Museum
+Family,Adventure,High,Fall,Long,Walking,Kitesurfing
+Couple,Culture,Medium,Winter,Short,Car Rental,Houmt Souk Exploration
+Couple,Relaxation,High,Summer,Short,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Medium,Summer,Short,Car Rental,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Spring,Short,Public Transport,Houmt Souk Exploration
+Group,Adventure,High,Fall,Short,Car Rental,Camel Ride on the Beach
+Couple,Adventure,Medium,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Spring,Long,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,High,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Summer,Short,Walking,Artisan Market Shopping
+Family,Adventure,Medium,Winter,Medium,Car Rental,Houmt Souk Exploration
+Group,Adventure,Low,Winter,Short,Walking,Visit the Djerba Heritage Museum
+Family,Culture,Low,Fall,Medium,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Fall,Long,Walking,Kitesurfing
+Group,Culture,High,Spring,Short,Walking,Excursion to Djerba Explore Park
+Group,Relaxation,Low,Spring,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Low,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Solo,Culture,Medium,Spring,Medium,Public Transport,Kitesurfing
+Couple,Relaxation,Low,Spring,Medium,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Low,Summer,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Culture,Low,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Summer,Long,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,High,Spring,Long,Car Rental,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Winter,Long,Public Transport,Artisan Market Shopping
+Group,Relaxation,High,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,Low,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Adventure,Medium,Summer,Long,Car Rental,Camel Ride on the Beach
+Couple,Adventure,Low,Fall,Medium,Car Rental,Visit Guellala Museum
+Couple,Culture,Low,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Medium,Summer,Long,Public Transport,Camel Ride on the Beach
+Group,Relaxation,Low,Winter,Long,Car Rental,Kitesurfing
+Group,Culture,Medium,Fall,Medium,Car Rental,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Long,Walking,Houmt Souk Exploration
+Solo,Adventure,Medium,Spring,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,Low,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Winter,Long,Public Transport,Kitesurfing
+Family,Culture,Low,Spring,Short,Car Rental,Artisan Market Shopping
+Couple,Culture,Low,Summer,Medium,Car Rental,Kitesurfing
+Family,Relaxation,High,Fall,Long,Walking,Houmt Souk Exploration
+Family,Culture,High,Spring,Medium,Walking,Artisan Market Shopping
+Solo,Relaxation,High,Summer,Long,Car Rental,Visit Guellala Museum
+Solo,Culture,Low,Summer,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,High,Summer,Medium,Walking,Luxury Spa Retreat
+Group,Relaxation,Medium,Spring,Short,Public Transport,Excursion to Djerba Explore Park
+Couple,Relaxation,High,Winter,Long,Car Rental,Houmt Souk Exploration
+Couple,Culture,Low,Winter,Short,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,Low,Summer,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Spring,Short,Public Transport,Artisan Market Shopping
+Group,Adventure,Medium,Summer,Long,Walking,Kitesurfing
+Group,Adventure,Medium,Summer,Medium,Walking,Visit Guellala Museum
+Family,Culture,Medium,Summer,Short,Car Rental,Houmt Souk Exploration
+Couple,Culture,Low,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Couple,Culture,Low,Winter,Short,Public Transport,Houmt Souk Exploration
+Couple,Culture,Low,Summer,Medium,Public Transport,Artisan Market Shopping
+Solo,Adventure,Low,Spring,Short,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Spring,Medium,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,High,Spring,Long,Walking,Luxury Spa Retreat
+Group,Culture,High,Fall,Medium,Car Rental,Explore Borj El Kebir Fort
+Couple,Adventure,High,Spring,Long,Public Transport,Visit Guellala Museum
+Solo,Culture,Medium,Winter,Short,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,Medium,Winter,Short,Walking,Visit Guellala Museum
+Group,Relaxation,Medium,Fall,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,High,Summer,Long,Walking,Artisan Market Shopping
+Couple,Culture,Medium,Fall,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Adventure,Low,Summer,Long,Walking,Luxury Spa Retreat
+Family,Relaxation,High,Winter,Long,Public Transport,Luxury Spa Retreat
+Family,Relaxation,Medium,Fall,Long,Walking,Kitesurfing
+Group,Adventure,High,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Group,Adventure,Low,Fall,Short,Public Transport,Kitesurfing
+Family,Relaxation,Medium,Winter,Short,Car Rental,Artisan Market Shopping
+Couple,Culture,Medium,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Group,Relaxation,Low,Winter,Short,Car Rental,Houmt Souk Exploration
+Couple,Culture,Medium,Summer,Long,Public Transport,Visit Guellala Museum
+Family,Culture,Low,Summer,Medium,Public Transport,Artisan Market Shopping
+Group,Relaxation,Medium,Winter,Medium,Walking,Luxury Spa Retreat
+Solo,Adventure,Medium,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Couple,Adventure,High,Summer,Long,Public Transport,Explore Borj El Kebir Fort
+Solo,Adventure,High,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Fall,Short,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Winter,Long,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Summer,Long,Car Rental,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Fall,Short,Public Transport,Relax at Sidi Mahres Beach
+Solo,Culture,High,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Culture,Low,Spring,Long,Walking,Houmt Souk Exploration
+Solo,Adventure,Medium,Spring,Long,Public Transport,Artisan Market Shopping
+Couple,Culture,Medium,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Winter,Long,Car Rental,Artisan Market Shopping
+Couple,Relaxation,High,Fall,Medium,Public Transport,Houmt Souk Exploration
+Couple,Adventure,High,Spring,Short,Walking,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Fall,Short,Public Transport,Kitesurfing
+Group,Relaxation,High,Spring,Long,Car Rental,Luxury Spa Retreat
+Couple,Adventure,High,Summer,Short,Walking,Visit the Djerba Heritage Museum
+Solo,Culture,Low,Summer,Short,Car Rental,Camel Ride on the Beach
+Group,Culture,Low,Summer,Long,Walking,Visit Guellala Museum
+Group,Adventure,Medium,Fall,Long,Public Transport,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Fall,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Culture,Medium,Summer,Long,Car Rental,Visit Guellala Museum
+Couple,Adventure,Low,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Group,Adventure,High,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Culture,Low,Winter,Short,Walking,Visit Guellala Museum
+Solo,Adventure,High,Fall,Medium,Public Transport,Artisan Market Shopping
+Group,Relaxation,Medium,Winter,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Culture,High,Spring,Short,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Fall,Short,Public Transport,Houmt Souk Exploration
+Family,Adventure,Medium,Summer,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Low,Fall,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Low,Fall,Medium,Car Rental,Camel Ride on the Beach
+Couple,Relaxation,High,Spring,Short,Walking,Artisan Market Shopping
+Solo,Culture,Low,Fall,Medium,Car Rental,Visit Guellala Museum
+Family,Relaxation,Medium,Fall,Medium,Public Transport,Artisan Market Shopping
+Family,Relaxation,High,Fall,Long,Public Transport,Visit Guellala Museum
+Couple,Culture,High,Winter,Long,Public Transport,Artisan Market Shopping
+Group,Adventure,High,Summer,Medium,Walking,Excursion to Djerba Explore Park
+Family,Relaxation,Medium,Spring,Short,Walking,Camel Ride on the Beach
+Family,Adventure,Medium,Fall,Long,Public Transport,Kitesurfing
+Family,Relaxation,Medium,Winter,Long,Walking,Visit the Djerba Heritage Museum
+Family,Adventure,Low,Spring,Medium,Public Transport,Explore Borj El Kebir Fort
+Family,Culture,Low,Winter,Medium,Public Transport,Visit Guellala Museum
+Family,Adventure,High,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,High,Summer,Medium,Car Rental,Excursion to Djerba Explore Park
+Family,Culture,High,Summer,Long,Car Rental,Visit Guellala Museum
+Group,Culture,Low,Summer,Medium,Public Transport,Excursion to Djerba Explore Park
+Solo,Relaxation,Medium,Fall,Medium,Car Rental,Artisan Market Shopping
+Group,Culture,Medium,Fall,Medium,Walking,Visit Guellala Museum
+Family,Relaxation,High,Summer,Medium,Public Transport,Luxury Spa Retreat
+Family,Culture,High,Spring,Short,Car Rental,Houmt Souk Exploration
+Family,Relaxation,High,Fall,Long,Public Transport,Artisan Market Shopping
+Solo,Adventure,Medium,Winter,Short,Car Rental,Houmt Souk Exploration
+Group,Culture,Low,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Winter,Long,Public Transport,Artisan Market Shopping
+Couple,Culture,Medium,Fall,Short,Car Rental,Houmt Souk Exploration
+Family,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Group,Adventure,Medium,Fall,Medium,Public Transport,Visit Guellala Museum
+Couple,Adventure,Low,Winter,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Medium,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Culture,Medium,Spring,Long,Walking,Visit Guellala Museum
+Solo,Culture,Low,Spring,Long,Walking,Explore Borj El Kebir Fort
+Solo,Relaxation,Medium,Spring,Long,Public Transport,Explore Borj El Kebir Fort
+Group,Relaxation,Medium,Fall,Long,Public Transport,Visit Guellala Museum
+Couple,Culture,Low,Summer,Short,Car Rental,Kitesurfing
+Family,Adventure,Low,Winter,Short,Car Rental,Kitesurfing
+Family,Adventure,High,Fall,Long,Car Rental,Visit the Djerba Heritage Museum
+Couple,Adventure,Medium,Summer,Medium,Walking,Houmt Souk Exploration
+Family,Adventure,Low,Fall,Long,Car Rental,Camel Ride on the Beach
+Family,Culture,Medium,Summer,Long,Walking,Artisan Market Shopping
+Solo,Culture,Low,Summer,Short,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,Low,Fall,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,High,Summer,Medium,Walking,Kitesurfing
+Family,Culture,Medium,Summer,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Relaxation,Low,Spring,Medium,Public Transport,Luxury Spa Retreat
+Solo,Adventure,Medium,Winter,Short,Public Transport,Kitesurfing
+Couple,Culture,High,Winter,Long,Public Transport,Houmt Souk Exploration
+Solo,Adventure,High,Winter,Short,Walking,Explore Borj El Kebir Fort
+Family,Relaxation,Low,Winter,Long,Public Transport,Houmt Souk Exploration
+Couple,Relaxation,Medium,Fall,Medium,Public Transport,Artisan Market Shopping
+Couple,Adventure,Low,Winter,Medium,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Low,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Group,Adventure,Medium,Winter,Short,Public Transport,Luxury Spa Retreat
+Family,Adventure,Medium,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Family,Culture,Low,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,Low,Summer,Long,Car Rental,Camel Ride on the Beach
+Solo,Culture,High,Winter,Short,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,High,Winter,Long,Walking,Camel Ride on the Beach
+Couple,Adventure,Medium,Fall,Long,Car Rental,Luxury Spa Retreat
+Solo,Relaxation,Low,Winter,Long,Car Rental,Luxury Spa Retreat
+Solo,Relaxation,High,Fall,Short,Public Transport,Luxury Spa Retreat
+Family,Adventure,High,Fall,Short,Walking,Kitesurfing
+Group,Relaxation,Low,Winter,Medium,Public Transport,Camel Ride on the Beach
+Family,Culture,Low,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Low,Summer,Long,Car Rental,Houmt Souk Exploration
+Couple,Adventure,Low,Winter,Short,Car Rental,Luxury Spa Retreat
+Group,Culture,High,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Group,Adventure,Low,Spring,Medium,Car Rental,Artisan Market Shopping
+Family,Adventure,Medium,Winter,Long,Walking,Excursion to Djerba Explore Park
+Group,Relaxation,Low,Winter,Long,Public Transport,Visit Guellala Museum
+Family,Culture,Medium,Winter,Long,Public Transport,Artisan Market Shopping
+Solo,Adventure,Medium,Spring,Short,Public Transport,Camel Ride on the Beach
+Family,Culture,Medium,Fall,Short,Walking,Explore Borj El Kebir Fort
+Solo,Culture,Low,Fall,Long,Walking,Visit Guellala Museum
+Solo,Adventure,Low,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Spring,Short,Walking,Kitesurfing
+Solo,Culture,Medium,Summer,Medium,Walking,Artisan Market Shopping
+Group,Culture,High,Summer,Short,Car Rental,Luxury Spa Retreat
+Solo,Culture,Medium,Summer,Medium,Car Rental,Relax at Sidi Mahres Beach
+Couple,Relaxation,High,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Culture,High,Summer,Medium,Walking,Houmt Souk Exploration
+Family,Culture,Low,Winter,Long,Walking,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Summer,Short,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,High,Winter,Long,Public Transport,Visit Guellala Museum
+Group,Adventure,Low,Winter,Long,Public Transport,Excursion to Djerba Explore Park
+Family,Culture,Low,Winter,Short,Public Transport,Kitesurfing
+Couple,Adventure,Medium,Summer,Long,Public Transport,Excursion to Djerba Explore Park
+Group,Relaxation,High,Fall,Medium,Car Rental,Visit the Djerba Heritage Museum
+Solo,Relaxation,High,Summer,Long,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Summer,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Adventure,Low,Spring,Long,Public Transport,Luxury Spa Retreat
+Group,Culture,Low,Spring,Short,Car Rental,Excursion to Djerba Explore Park
+Couple,Adventure,Low,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Medium,Summer,Long,Walking,Relax at Sidi Mahres Beach
+Solo,Adventure,High,Summer,Medium,Walking,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Winter,Short,Car Rental,Visit the Djerba Heritage Museum
+Group,Relaxation,High,Fall,Short,Car Rental,Visit Guellala Museum
+Couple,Culture,High,Fall,Medium,Public Transport,Kitesurfing
+Family,Culture,Low,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Couple,Culture,High,Winter,Long,Public Transport,Explore Borj El Kebir Fort
+Couple,Culture,Low,Spring,Short,Walking,Visit Guellala Museum
+Group,Relaxation,High,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Group,Relaxation,Medium,Winter,Medium,Car Rental,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Spring,Long,Car Rental,Luxury Spa Retreat
+Group,Adventure,High,Summer,Long,Walking,Artisan Market Shopping
+Group,Adventure,Low,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Solo,Culture,Medium,Winter,Medium,Walking,Camel Ride on the Beach
+Solo,Relaxation,Medium,Winter,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,High,Fall,Long,Public Transport,Excursion to Djerba Explore Park
+Solo,Adventure,High,Spring,Medium,Walking,Camel Ride on the Beach
+Group,Relaxation,High,Spring,Medium,Public Transport,Camel Ride on the Beach
+Couple,Adventure,High,Spring,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,High,Winter,Long,Walking,Explore Borj El Kebir Fort
+Group,Culture,Medium,Spring,Medium,Public Transport,Camel Ride on the Beach
+Family,Adventure,High,Fall,Long,Walking,Excursion to Djerba Explore Park
+Solo,Adventure,Medium,Fall,Medium,Car Rental,Camel Ride on the Beach
+Group,Adventure,Low,Spring,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,Low,Spring,Short,Walking,Visit Guellala Museum
+Group,Adventure,Low,Spring,Medium,Walking,Artisan Market Shopping
+Group,Culture,Medium,Winter,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,Medium,Spring,Short,Car Rental,Luxury Spa Retreat
+Solo,Relaxation,Medium,Spring,Long,Public Transport,Visit Guellala Museum
+Solo,Relaxation,High,Winter,Medium,Public Transport,Kitesurfing
+Group,Relaxation,High,Spring,Short,Walking,Visit the Djerba Heritage Museum
+Group,Culture,High,Winter,Medium,Walking,Houmt Souk Exploration
+Couple,Relaxation,Low,Spring,Medium,Public Transport,Artisan Market Shopping
+Solo,Adventure,Low,Summer,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Summer,Short,Public Transport,Houmt Souk Exploration
+Couple,Adventure,Medium,Fall,Long,Walking,Artisan Market Shopping
+Solo,Culture,Medium,Summer,Medium,Walking,Kitesurfing
+Solo,Relaxation,Low,Fall,Long,Walking,Visit the Djerba Heritage Museum
+Group,Adventure,High,Spring,Medium,Walking,Houmt Souk Exploration
+Family,Culture,High,Fall,Long,Public Transport,Artisan Market Shopping
+Group,Relaxation,Low,Summer,Long,Public Transport,Luxury Spa Retreat
+Family,Culture,Medium,Summer,Long,Public Transport,Kitesurfing
+Couple,Relaxation,High,Spring,Short,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,Low,Spring,Short,Public Transport,Relax at Sidi Mahres Beach
+Couple,Relaxation,High,Spring,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Relaxation,Low,Summer,Medium,Car Rental,Kitesurfing
+Solo,Relaxation,Low,Summer,Long,Walking,Visit Guellala Museum
+Couple,Relaxation,Medium,Spring,Long,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,Medium,Fall,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Medium,Spring,Short,Public Transport,Artisan Market Shopping
+Couple,Relaxation,Medium,Winter,Short,Public Transport,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Spring,Medium,Walking,Excursion to Djerba Explore Park
+Family,Culture,Medium,Fall,Short,Public Transport,Visit Guellala Museum
+Group,Relaxation,Low,Fall,Short,Public Transport,Camel Ride on the Beach
+Family,Adventure,High,Summer,Medium,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Spring,Long,Walking,Luxury Spa Retreat
+Group,Adventure,High,Spring,Medium,Walking,Visit Guellala Museum
+Group,Adventure,High,Winter,Short,Walking,Artisan Market Shopping
+Couple,Adventure,Low,Spring,Long,Car Rental,Visit the Djerba Heritage Museum
+Group,Culture,Low,Spring,Long,Car Rental,Luxury Spa Retreat
+Family,Culture,Low,Fall,Medium,Public Transport,Artisan Market Shopping
+Group,Adventure,Medium,Spring,Medium,Public Transport,Luxury Spa Retreat
+Solo,Culture,High,Fall,Long,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Summer,Long,Car Rental,Visit Guellala Museum
+Group,Adventure,Low,Summer,Medium,Car Rental,Houmt Souk Exploration
+Solo,Adventure,High,Spring,Short,Public Transport,Explore Borj El Kebir Fort
+Solo,Culture,High,Spring,Medium,Walking,Visit Guellala Museum
+Group,Culture,Medium,Fall,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Summer,Short,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,High,Winter,Medium,Walking,Relax at Sidi Mahres Beach
+Couple,Relaxation,High,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Group,Culture,Medium,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Medium,Winter,Short,Walking,Visit Guellala Museum
+Family,Culture,Low,Spring,Long,Walking,Excursion to Djerba Explore Park
+Family,Culture,Medium,Spring,Medium,Car Rental,Kitesurfing
+Solo,Culture,High,Summer,Long,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,High,Spring,Short,Car Rental,Visit Guellala Museum
+Group,Relaxation,High,Summer,Short,Walking,Camel Ride on the Beach
+Group,Adventure,Medium,Winter,Short,Public Transport,Camel Ride on the Beach
+Family,Adventure,Low,Fall,Medium,Car Rental,Luxury Spa Retreat
+Family,Adventure,Medium,Summer,Long,Public Transport,Kitesurfing
+Couple,Adventure,Medium,Winter,Short,Public Transport,Camel Ride on the Beach
+Group,Adventure,Medium,Spring,Long,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,High,Winter,Short,Walking,Luxury Spa Retreat
+Group,Culture,High,Fall,Medium,Car Rental,Houmt Souk Exploration
+Solo,Relaxation,Medium,Summer,Short,Walking,Kitesurfing
+Couple,Culture,Low,Fall,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Winter,Long,Car Rental,Houmt Souk Exploration
+Group,Relaxation,Medium,Spring,Long,Walking,Artisan Market Shopping
+Group,Adventure,Low,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Solo,Adventure,High,Winter,Long,Car Rental,Camel Ride on the Beach
+Solo,Relaxation,Low,Winter,Short,Car Rental,Kitesurfing
+Group,Culture,High,Summer,Medium,Walking,Camel Ride on the Beach
+Group,Relaxation,Low,Spring,Long,Car Rental,Houmt Souk Exploration
+Group,Culture,High,Winter,Medium,Walking,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Summer,Long,Public Transport,Camel Ride on the Beach
+Solo,Relaxation,Medium,Spring,Short,Public Transport,Kitesurfing
+Family,Relaxation,Medium,Winter,Long,Car Rental,Houmt Souk Exploration
+Couple,Culture,High,Winter,Medium,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Low,Summer,Medium,Car Rental,Camel Ride on the Beach
+Solo,Culture,High,Summer,Short,Public Transport,Kitesurfing
+Family,Relaxation,High,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Couple,Adventure,High,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Group,Adventure,Medium,Fall,Short,Public Transport,Visit Guellala Museum
+Family,Relaxation,Low,Fall,Long,Car Rental,Visit the Djerba Heritage Museum
+Solo,Culture,High,Winter,Long,Public Transport,Camel Ride on the Beach
+Solo,Culture,Low,Winter,Long,Car Rental,Visit the Djerba Heritage Museum
+Family,Relaxation,Medium,Summer,Long,Walking,Excursion to Djerba Explore Park
+Solo,Culture,High,Summer,Short,Walking,Luxury Spa Retreat
+Group,Relaxation,Medium,Spring,Long,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Medium,Spring,Medium,Public Transport,Visit Guellala Museum
+Group,Adventure,Medium,Spring,Long,Walking,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Fall,Medium,Car Rental,Visit Guellala Museum
+Family,Relaxation,High,Winter,Medium,Public Transport,Artisan Market Shopping
+Family,Adventure,High,Spring,Medium,Car Rental,Houmt Souk Exploration
+Family,Culture,Medium,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Group,Adventure,Low,Fall,Long,Public Transport,Kitesurfing
+Couple,Relaxation,Low,Summer,Long,Public Transport,Houmt Souk Exploration
+Solo,Adventure,Low,Summer,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,Low,Spring,Long,Public Transport,Camel Ride on the Beach
+Couple,Adventure,Low,Fall,Short,Car Rental,Artisan Market Shopping
+Solo,Adventure,Low,Spring,Short,Public Transport,Houmt Souk Exploration
+Group,Adventure,Medium,Spring,Short,Car Rental,Visit Guellala Museum
+Group,Relaxation,Medium,Winter,Long,Walking,Visit the Djerba Heritage Museum
+Family,Culture,Low,Fall,Medium,Public Transport,Houmt Souk Exploration
+Couple,Adventure,Low,Fall,Medium,Public Transport,Visit Guellala Museum
+Solo,Adventure,High,Spring,Medium,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,Low,Winter,Medium,Walking,Houmt Souk Exploration
+Group,Relaxation,High,Spring,Medium,Public Transport,Camel Ride on the Beach
+Family,Culture,Medium,Fall,Long,Car Rental,Kitesurfing
+Family,Adventure,High,Spring,Medium,Walking,Artisan Market Shopping
+Group,Adventure,Low,Winter,Short,Public Transport,Luxury Spa Retreat
+Couple,Relaxation,Medium,Summer,Long,Car Rental,Luxury Spa Retreat
+Group,Relaxation,High,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Culture,High,Fall,Medium,Walking,Explore Borj El Kebir Fort
+Couple,Culture,Medium,Fall,Long,Walking,Artisan Market Shopping
+Couple,Adventure,High,Summer,Short,Public Transport,Luxury Spa Retreat
+Couple,Adventure,High,Fall,Short,Walking,Camel Ride on the Beach
+Couple,Culture,High,Summer,Long,Public Transport,Luxury Spa Retreat
+Group,Adventure,High,Spring,Short,Walking,Camel Ride on the Beach
+Solo,Relaxation,High,Spring,Medium,Car Rental,Explore Borj El Kebir Fort
+Family,Culture,Medium,Summer,Short,Car Rental,Visit Guellala Museum
+Family,Culture,High,Spring,Short,Car Rental,Relax at Sidi Mahres Beach
+Couple,Adventure,High,Winter,Medium,Public Transport,Kitesurfing
+Solo,Relaxation,Medium,Summer,Short,Car Rental,Artisan Market Shopping
+Family,Relaxation,Low,Summer,Long,Public Transport,Artisan Market Shopping
+Solo,Culture,High,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Family,Relaxation,Medium,Summer,Medium,Public Transport,Visit Guellala Museum
+Couple,Culture,High,Spring,Short,Walking,Explore Borj El Kebir Fort
+Couple,Adventure,High,Spring,Long,Public Transport,Camel Ride on the Beach
+Family,Relaxation,High,Spring,Medium,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,High,Spring,Long,Walking,Luxury Spa Retreat
+Family,Culture,Medium,Spring,Long,Car Rental,Camel Ride on the Beach
+Solo,Culture,High,Winter,Long,Car Rental,Explore Borj El Kebir Fort
+Solo,Culture,Medium,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Relaxation,Medium,Winter,Long,Walking,Camel Ride on the Beach
+Solo,Adventure,High,Summer,Short,Public Transport,Luxury Spa Retreat
+Solo,Culture,High,Fall,Medium,Public Transport,Kitesurfing
+Group,Adventure,High,Summer,Short,Car Rental,Luxury Spa Retreat
+Group,Relaxation,Medium,Fall,Long,Car Rental,Camel Ride on the Beach
+Group,Adventure,Medium,Spring,Short,Public Transport,Artisan Market Shopping
+Group,Adventure,Medium,Spring,Long,Public Transport,Visit Guellala Museum
+Group,Relaxation,Medium,Summer,Short,Walking,Excursion to Djerba Explore Park
+Solo,Relaxation,High,Fall,Medium,Public Transport,Kitesurfing
+Couple,Culture,High,Spring,Long,Car Rental,Visit Guellala Museum
+Group,Adventure,High,Spring,Long,Walking,Visit the Djerba Heritage Museum
+Couple,Adventure,High,Spring,Short,Walking,Houmt Souk Exploration
+Family,Adventure,High,Spring,Long,Walking,Kitesurfing
+Solo,Culture,Low,Spring,Medium,Car Rental,Houmt Souk Exploration
+Family,Relaxation,Low,Summer,Long,Public Transport,Visit Guellala Museum
+Group,Adventure,Low,Winter,Medium,Walking,Kitesurfing
+Couple,Adventure,High,Fall,Medium,Walking,Artisan Market Shopping
+Family,Culture,Medium,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,Medium,Spring,Medium,Public Transport,Houmt Souk Exploration
+Solo,Culture,Medium,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Group,Adventure,High,Spring,Medium,Walking,Artisan Market Shopping
+Group,Relaxation,Low,Winter,Medium,Public Transport,Camel Ride on the Beach
+Solo,Culture,Low,Summer,Medium,Public Transport,Houmt Souk Exploration
+Group,Relaxation,Medium,Summer,Medium,Walking,Explore Borj El Kebir Fort
+Solo,Adventure,Low,Spring,Medium,Public Transport,Houmt Souk Exploration
+Family,Adventure,Medium,Spring,Medium,Walking,Kitesurfing
+Couple,Culture,Medium,Spring,Medium,Walking,Explore Borj El Kebir Fort
+Group,Culture,High,Spring,Short,Public Transport,Houmt Souk Exploration
+Solo,Relaxation,High,Spring,Medium,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Low,Spring,Medium,Car Rental,Excursion to Djerba Explore Park
+Solo,Adventure,Low,Summer,Long,Public Transport,Camel Ride on the Beach
+Group,Culture,Medium,Fall,Short,Car Rental,Excursion to Djerba Explore Park
+Solo,Culture,Low,Summer,Short,Walking,Luxury Spa Retreat
+Family,Culture,Medium,Fall,Short,Public Transport,Relax at Sidi Mahres Beach
+Solo,Relaxation,Low,Winter,Short,Car Rental,Luxury Spa Retreat
+Solo,Adventure,Medium,Spring,Short,Public Transport,Luxury Spa Retreat
+Family,Relaxation,High,Spring,Short,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,Low,Summer,Long,Public Transport,Kitesurfing
+Couple,Relaxation,Medium,Winter,Short,Car Rental,Explore Borj El Kebir Fort
+Group,Relaxation,Low,Fall,Long,Car Rental,Kitesurfing
+Family,Relaxation,High,Winter,Short,Car Rental,Excursion to Djerba Explore Park
+Family,Relaxation,Low,Winter,Long,Public Transport,Visit the Djerba Heritage Museum
+Couple,Relaxation,Medium,Winter,Medium,Walking,Explore Borj El Kebir Fort
+Group,Relaxation,Low,Winter,Short,Public Transport,Kitesurfing
+Group,Adventure,Low,Winter,Long,Car Rental,Luxury Spa Retreat
+Solo,Culture,High,Fall,Medium,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Low,Summer,Short,Car Rental,Relax at Sidi Mahres Beach
+Family,Adventure,Medium,Winter,Short,Car Rental,Artisan Market Shopping
+Couple,Culture,Low,Spring,Long,Public Transport,Explore Borj El Kebir Fort
+Family,Relaxation,Medium,Winter,Long,Walking,Kitesurfing
+Family,Relaxation,Medium,Spring,Short,Walking,Artisan Market Shopping
+Family,Relaxation,High,Fall,Long,Car Rental,Visit Guellala Museum
+Solo,Culture,Medium,Spring,Long,Walking,Visit Guellala Museum
+Group,Adventure,Low,Summer,Short,Walking,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Winter,Long,Walking,Houmt Souk Exploration
+Couple,Culture,High,Summer,Medium,Walking,Artisan Market Shopping
+Group,Culture,Low,Spring,Long,Public Transport,Explore Borj El Kebir Fort
+Couple,Relaxation,High,Summer,Long,Walking,Artisan Market Shopping
+Family,Culture,Low,Fall,Long,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Medium,Winter,Long,Car Rental,Excursion to Djerba Explore Park
+Couple,Relaxation,Medium,Winter,Long,Walking,Artisan Market Shopping
+Group,Culture,High,Fall,Medium,Public Transport,Excursion to Djerba Explore Park
+Couple,Culture,High,Spring,Long,Car Rental,Artisan Market Shopping
+Solo,Relaxation,Low,Fall,Medium,Car Rental,Kitesurfing
+Solo,Adventure,High,Spring,Short,Walking,Houmt Souk Exploration
+Group,Relaxation,High,Winter,Short,Public Transport,Camel Ride on the Beach
+Group,Culture,Medium,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Family,Relaxation,High,Fall,Short,Public Transport,Luxury Spa Retreat
+Solo,Relaxation,Low,Summer,Long,Car Rental,Kitesurfing
+Couple,Culture,Low,Spring,Long,Walking,Houmt Souk Exploration
+Solo,Culture,Low,Winter,Medium,Walking,Excursion to Djerba Explore Park
+Group,Culture,Low,Fall,Medium,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,Medium,Spring,Short,Public Transport,Luxury Spa Retreat
+Couple,Adventure,Low,Summer,Short,Public Transport,Visit the Djerba Heritage Museum
+Solo,Adventure,Low,Fall,Short,Car Rental,Artisan Market Shopping
+Couple,Adventure,Low,Summer,Long,Walking,Visit the Djerba Heritage Museum
+Solo,Relaxation,High,Summer,Medium,Walking,Relax at Sidi Mahres Beach
+Solo,Culture,High,Spring,Long,Walking,Luxury Spa Retreat
+Couple,Culture,High,Summer,Short,Walking,Relax at Sidi Mahres Beach
+Couple,Culture,Low,Fall,Medium,Walking,Camel Ride on the Beach
+Group,Culture,Low,Summer,Short,Car Rental,Luxury Spa Retreat
+Solo,Relaxation,High,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Family,Relaxation,High,Spring,Medium,Public Transport,Visit the Djerba Heritage Museum
+Group,Adventure,Medium,Winter,Long,Walking,Houmt Souk Exploration
+Couple,Culture,Low,Summer,Short,Walking,Luxury Spa Retreat
+Group,Relaxation,Low,Fall,Medium,Car Rental,Excursion to Djerba Explore Park
+Group,Culture,Low,Winter,Short,Walking,Relax at Sidi Mahres Beach
+Group,Relaxation,High,Fall,Medium,Car Rental,Kitesurfing
+Solo,Culture,High,Fall,Short,Car Rental,Visit Guellala Museum
+Couple,Relaxation,Low,Spring,Long,Car Rental,Luxury Spa Retreat
+Couple,Relaxation,Low,Spring,Long,Walking,Artisan Market Shopping
+Solo,Relaxation,High,Spring,Medium,Public Transport,Artisan Market Shopping
+Family,Culture,High,Winter,Long,Public Transport,Relax at Sidi Mahres Beach
+Family,Relaxation,High,Spring,Long,Public Transport,Excursion to Djerba Explore Park
+Group,Culture,Medium,Winter,Short,Public Transport,Kitesurfing
+Family,Culture,Low,Fall,Long,Walking,Explore Borj El Kebir Fort
+Solo,Relaxation,High,Winter,Short,Walking,Visit Guellala Museum
+Solo,Culture,Medium,Winter,Long,Walking,Explore Borj El Kebir Fort
+Group,Adventure,Low,Fall,Medium,Walking,Explore Borj El Kebir Fort
